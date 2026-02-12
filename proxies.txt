@@ -1,12 +1,12 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-12 13:00:01
+# Updated: 2026-02-12 14:00:02
 # Total: 34 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
 
 # === TROJAN (2) ===
-trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_341KB/s_1244ms
+trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_341KB/s_1358ms
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_256KB/s_1390ms
 
 # === VLESS (32) ===
@@ -40,5 +40,5 @@ vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reali
 vless://376a4421-e443-48ba-ba16-01b8dc6a8f40@217.60.255.205:9090?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪DE_205KB/s_346ms
 vless://a4c6ec2d-e912-47a8-ab05-b34f861491bb@85.133.197.218:8880?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_169KB/s_316ms
 vless://e9cb4760-49e1-4091-a3b4-995dda32433e@213.165.56.23:2087?security=reality&encryption=none&pbk=5FlKF0pkOifxV2ZzFnI5bk06MfjBHPzpJVH6_eu8iCI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=b0#🇳🇱NL_146KB/s_532ms
-vless://1eea1e0b-6388-491c-b310-5524e8384808@icshstor.site:23411?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0Z7LFqDUF568Df972BbYorpeykKnN-Z98jHjDBnRbCE&sid=b69808&sni=icshstor.site#🇬🇧GB_114KB/s_930ms
+vless://1eea1e0b-6388-491c-b310-5524e8384808@icshstor.site:23411?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0Z7LFqDUF568Df972BbYorpeykKnN-Z98jHjDBnRbCE&sid=b69808&sni=icshstor.site#🇲🇩MD_114KB/s_1900ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_108KB/s_584ms
