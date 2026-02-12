@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-13 01:00:18
+# Updated: 2026-02-13 02:00:17
 # Total: 61 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -45,7 +45,7 @@ vless://3f2e4f68-bced-4794-9aeb-bbfd6bebab54@us.catconnect.ru:8443?type=tcp&secu
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@usa.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&sni=usa.scroogethebest.com#🇺🇸US_341KB/s_1186ms
 vless://dbc8b845-5441-4a43-98cb-2e33ecb06f59@162.159.198.189:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=tls&type=ws&path=/v2rayroad&host=hotchoclate.graphapp.ir&sni=hotchoclate.graphapp.ir&fp=chrome&alpn=h2,http/1.1&allowInsecure=0#🇩🇪DE_341KB/s_829ms
 vless://dbc8b845-5441-4a43-98cb-2e33ecb06f59@162.159.198.189:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=tls&type=ws&path=%2Fv2rayroad&host=hotchoclate.graphapp.ir&sni=hotchoclate.graphapp.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=0#🇩🇪DE_341KB/s_722ms
-vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=reality&encryption=none&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&headerType=none&fp=chrome&spx=/W6ecV2qfqw14fC6&type=tcp&sni=tgju.org&sid=3543d68a#🇫🇷FR_256KB/s_606ms
+vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=reality&encryption=none&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&headerType=none&fp=chrome&spx=/W6ecV2qfqw14fC6&type=tcp&sni=tgju.org&sid=3543d68a#🇷🇺RU_256KB/s_579ms
 vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=tls&encryption=none&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a&type=tcp&headerType=none&path=%2f&allow_insecure=0#🇫🇷FR_256KB/s_599ms
 vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@myserviran.serviran.workers.dev:443/?type=ws&security=tls&sni=myserviran.serviran.workers.dev&host=myserviran.serviran.workers.dev&path=/?ed=2048&fp=chrome#🇩🇪DE_256KB/s_818ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_256KB/s_1609ms
