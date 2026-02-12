@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-13 00:00:16
+# Updated: 2026-02-13 01:00:18
 # Total: 61 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -57,12 +57,12 @@ vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reali
 vless://376a4421-e443-48ba-ba16-01b8dc6a8f40@217.60.255.205:9090?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪DE_205KB/s_346ms
 vless://34ff9094-2f87-435c-a1f5-75047490b280@p3-sv3.hamrahx.ir:2313?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=chrome&pbk=Ly87L5hi2vCNVn6QnfHbjdXYInBN4f8kz_dzZGybXxI&sid=48cd8dfb7aec680d#🇫🇮FI_205KB/s_864ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/NL/3#🇬🇧GB_205KB/s_712ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_205KB/s_834ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_205KB/s_855ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/DE/3#🇩🇪DE_205KB/s_478ms
 vless://6fa4c714-14d4-408b-badd-50f7a23801cf@fr1.nerpvpn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&sni=store.steampowered.com#🇲🇩MD_192KB/s_771ms
 vless://a4c6ec2d-e912-47a8-ab05-b34f861491bb@85.133.197.218:8880?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_169KB/s_316ms
 vless://e9cb4760-49e1-4091-a3b4-995dda32433e@213.165.56.23:2087?security=reality&encryption=none&pbk=5FlKF0pkOifxV2ZzFnI5bk06MfjBHPzpJVH6_eu8iCI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=b0#🇳🇱NL_146KB/s_532ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?path=/IVApi/US/3&security=none&encryption=none&type=ws#🇳🇱NL_146KB/s_639ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?path=/IVApi/US/3&security=none&encryption=none&type=ws#🇬🇧GB_146KB/s_700ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?flow=&packetEncoding=xudp&path=/IVApi/US/3&type=ws#🇳🇱NL_146KB/s_833ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_146KB/s_909ms
 vless://1eea1e0b-6388-491c-b310-5524e8384808@icshstor.site:23411?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0Z7LFqDUF568Df972BbYorpeykKnN-Z98jHjDBnRbCE&sid=b69808&sni=icshstor.site#🇲🇩MD_114KB/s_956ms
