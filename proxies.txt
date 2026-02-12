@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-12 20:00:15
+# Updated: 2026-02-12 21:00:05
 # Total: 58 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -42,7 +42,7 @@ vless://34ff9094-2f87-435c-a1f5-75047490b280@p3-sv5.hamrahx.ir:2313?security=rea
 vless://f5b63288-12cb-4a16-937a-f8ec4d60fb9a@gb.fluxorvpn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pQYGdr-ee0TotzdikPWnqJgKbX8OYcPNkJpH9scxjB0&sid=d7e1abac&sni=store.steampowered.com#🇬🇧GB_341KB/s_861ms
 vless://3f2e4f68-bced-4794-9aeb-bbfd6bebab54@us.catconnect.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw&sid=9c9e61aa&sni=deepl.com#🇺🇸US_341KB/s_1172ms
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@usa.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&sni=usa.scroogethebest.com#🇺🇸US_341KB/s_1186ms
-vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=reality&encryption=none&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&headerType=none&fp=chrome&spx=/W6ecV2qfqw14fC6&type=tcp&sni=tgju.org&sid=3543d68a#🇫🇷FR_256KB/s_666ms
+vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=reality&encryption=none&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&headerType=none&fp=chrome&spx=/W6ecV2qfqw14fC6&type=tcp&sni=tgju.org&sid=3543d68a#🇷🇺RU_256KB/s_582ms
 vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=tls&encryption=none&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a&type=tcp&headerType=none&path=%2f&allow_insecure=0#🇫🇷FR_256KB/s_599ms
 vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@myserviran.serviran.workers.dev:443/?type=ws&security=tls&sni=myserviran.serviran.workers.dev&host=myserviran.serviran.workers.dev&path=/?ed=2048&fp=chrome#🇩🇪DE_256KB/s_818ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_256KB/s_1609ms
@@ -53,8 +53,8 @@ vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&securi
 vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#🇪🇸ES_205KB/s_657ms
 vless://376a4421-e443-48ba-ba16-01b8dc6a8f40@217.60.255.205:9090?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪DE_205KB/s_346ms
 vless://34ff9094-2f87-435c-a1f5-75047490b280@p3-sv3.hamrahx.ir:2313?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=chrome&pbk=Ly87L5hi2vCNVn6QnfHbjdXYInBN4f8kz_dzZGybXxI&sid=48cd8dfb7aec680d#🇫🇮FI_205KB/s_864ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/NL/3#🇨🇭CH_205KB/s_1060ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_205KB/s_933ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/NL/3#🇬🇧GB_205KB/s_712ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_205KB/s_834ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/DE/3#🇩🇪DE_205KB/s_478ms
 vless://6fa4c714-14d4-408b-badd-50f7a23801cf@fr1.nerpvpn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&sni=store.steampowered.com#🇲🇩MD_192KB/s_771ms
 vless://a4c6ec2d-e912-47a8-ab05-b34f861491bb@85.133.197.218:8880?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_169KB/s_316ms
