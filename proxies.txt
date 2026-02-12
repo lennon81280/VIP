@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-12 19:00:05
-# Total: 57 working proxies
+# Updated: 2026-02-12 20:00:15
+# Total: 58 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
@@ -9,7 +9,7 @@
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_341KB/s_1269ms
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_256KB/s_1277ms
 
-# === VLESS (55) ===
+# === VLESS (56) ===
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
@@ -53,7 +53,7 @@ vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&securi
 vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#🇪🇸ES_205KB/s_657ms
 vless://376a4421-e443-48ba-ba16-01b8dc6a8f40@217.60.255.205:9090?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪DE_205KB/s_346ms
 vless://34ff9094-2f87-435c-a1f5-75047490b280@p3-sv3.hamrahx.ir:2313?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=chrome&pbk=Ly87L5hi2vCNVn6QnfHbjdXYInBN4f8kz_dzZGybXxI&sid=48cd8dfb7aec680d#🇫🇮FI_205KB/s_864ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/NL/3#🇨🇭CH_205KB/s_622ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/NL/3#🇨🇭CH_205KB/s_1060ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_205KB/s_933ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/DE/3#🇩🇪DE_205KB/s_478ms
 vless://6fa4c714-14d4-408b-badd-50f7a23801cf@fr1.nerpvpn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&sni=store.steampowered.com#🇲🇩MD_192KB/s_771ms
@@ -65,3 +65,4 @@ vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram--
 vless://1eea1e0b-6388-491c-b310-5524e8384808@icshstor.site:23411?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0Z7LFqDUF568Df972BbYorpeykKnN-Z98jHjDBnRbCE&sid=b69808&sni=icshstor.site#🇲🇩MD_114KB/s_956ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_108KB/s_584ms
 vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461&sni=apple.com#🇱🇻LV_93KB/s_679ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_79KB/s_1057ms
