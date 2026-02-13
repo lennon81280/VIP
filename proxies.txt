@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-13 05:00:16
-# Total: 66 working proxies
+# Updated: 2026-02-13 06:00:06
+# Total: 70 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
@@ -9,7 +9,7 @@
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_341KB/s_1269ms
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_256KB/s_1277ms
 
-# === VLESS (64) ===
+# === VLESS (68) ===
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
@@ -47,14 +47,17 @@ vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@usa.scroogethebest.com:443?type=tcp
 vless://dbc8b845-5441-4a43-98cb-2e33ecb06f59@162.159.198.189:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=tls&type=ws&path=/v2rayroad&host=hotchoclate.graphapp.ir&sni=hotchoclate.graphapp.ir&fp=chrome&alpn=h2,http/1.1&allowInsecure=0#🇩🇪DE_341KB/s_829ms
 vless://dbc8b845-5441-4a43-98cb-2e33ecb06f59@162.159.198.189:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=tls&type=ws&path=%2Fv2rayroad&host=hotchoclate.graphapp.ir&sni=hotchoclate.graphapp.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=0#🇩🇪DE_341KB/s_722ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_341KB/s_435ms
+vless://cb6724d6-4900-4188-ae20-5d89b626394d@156.248.8.34:58472?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.discoverasr.com&fp=firefox&pbk=f6jIBpzHwC1lDAwvJojvEIPlwZqyEkL0gVsJxmeRLCI&sid=44ef9a66271b4e&type=tcp&headerType=none#🇭🇰HK_341KB/s_1057ms
+vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_341KB/s_969ms
 vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=reality&encryption=none&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&headerType=none&fp=chrome&spx=/W6ecV2qfqw14fC6&type=tcp&sni=tgju.org&sid=3543d68a#🇫🇷FR_256KB/s_556ms
 vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=tls&encryption=none&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a&type=tcp&headerType=none&path=%2f&allow_insecure=0#🇫🇷FR_256KB/s_599ms
 vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@myserviran.serviran.workers.dev:443/?type=ws&security=tls&sni=myserviran.serviran.workers.dev&host=myserviran.serviran.workers.dev&path=/?ed=2048&fp=chrome#🇩🇪DE_256KB/s_818ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_256KB/s_1609ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/DE/3#🇩🇪DE_256KB/s_564ms
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@germany.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&sni=germany.scroogethebest.com#🇩🇪DE_256KB/s_641ms
+vless://3311bb40-d37c-4e6a-ad5d-451f6e72a5d8@31.184.166.242:2053?type=tcp&amp;security=none#🇩🇪DE_256KB/s_402ms
 vless://f5b63288-12cb-4a16-937a-f8ec4d60fb9a@144.31.14.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SMWxEMrhmvnBUZATJebIlLdlMM7XOLvXBzgt9XYJ9zk&security=reality&sid=3decb73e&sni=store.steampowered.com&type=tcp#🇳🇱NL_226KB/s_1208ms
-vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@netv.amirshee9090.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=netv.amirshee9090.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=netv.amirshee9090.workers.dev#🇩🇪DE_223KB/s_796ms
+vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@netv.amirshee9090.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=netv.amirshee9090.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=netv.amirshee9090.workers.dev#🇩🇪DE_223KB/s_782ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_209KB/s_1313ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=master.red-cow.de#🇩🇪DE_208KB/s_986ms
 vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#🇪🇸ES_205KB/s_657ms
@@ -63,14 +66,15 @@ vless://34ff9094-2f87-435c-a1f5-75047490b280@p3-sv3.hamrahx.ir:2313?security=rea
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/NL/3#🇬🇧GB_205KB/s_712ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇩🇪DE_205KB/s_778ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/DE/3#🇩🇪DE_205KB/s_478ms
+vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#🇨🇾CY_205KB/s_886ms
 vless://6fa4c714-14d4-408b-badd-50f7a23801cf@fr1.nerpvpn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&sni=store.steampowered.com#🇲🇩MD_192KB/s_771ms
 vless://a4c6ec2d-e912-47a8-ab05-b34f861491bb@85.133.197.218:8880?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_169KB/s_316ms
 vless://e9cb4760-49e1-4091-a3b4-995dda32433e@213.165.56.23:2087?security=reality&encryption=none&pbk=5FlKF0pkOifxV2ZzFnI5bk06MfjBHPzpJVH6_eu8iCI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=b0#🇳🇱NL_146KB/s_532ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?path=/IVApi/US/3&security=none&encryption=none&type=ws#🇳🇱NL_146KB/s_408ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?path=/IVApi/US/3&security=none&encryption=none&type=ws#🇨🇭CH_146KB/s_523ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?flow=&packetEncoding=xudp&path=/IVApi/US/3&type=ws#🇳🇱NL_146KB/s_833ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_146KB/s_909ms
 vless://1eea1e0b-6388-491c-b310-5524e8384808@icshstor.site:23411?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0Z7LFqDUF568Df972BbYorpeykKnN-Z98jHjDBnRbCE&sid=b69808&sni=icshstor.site#🇲🇩MD_114KB/s_956ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_108KB/s_584ms
 vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461&sni=apple.com#🇱🇻LV_93KB/s_679ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_79KB/s_1057ms
-vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇦🇿AZ_22B/s_1175ms
+vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_22B/s_859ms
