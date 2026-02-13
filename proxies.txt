@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-14 00:00:17
-# Total: 79 working proxies
+# Updated: 2026-02-14 01:00:05
+# Total: 80 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
@@ -9,7 +9,7 @@
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_341KB/s_1269ms
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_256KB/s_1277ms
 
-# === VLESS (77) ===
+# === VLESS (78) ===
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
@@ -60,6 +60,7 @@ vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?note=---Telegram-
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@germany.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&sni=germany.scroogethebest.com#🇩🇪DE_256KB/s_641ms
 vless://3311bb40-d37c-4e6a-ad5d-451f6e72a5d8@31.184.166.242:2053?type=tcp&amp;security=none#🇩🇪DE_256KB/s_402ms
 vless://f44755e7-9dc9-43db-956b-6da23f40d662@3.wodegv.xyz:27301?security=reality&encryption=none&pbk=tD0hNThFt6Y5Ifo5VqeIhYCF8iHXDFOBIc5-To4gK20&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=buylite.tv.apple.com#🇭🇰HK_256KB/s_1417ms
+vless://80d277e5-d30a-49c6-8987-cb4d2cc79ee5@grinoree.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇭🇺HU_256KB/s_622ms
 vless://cab07d12-e2e7-4896-b698-76d22c063a39@185.231.113.179:15550?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_238KB/s_296ms
 vless://f5b63288-12cb-4a16-937a-f8ec4d60fb9a@144.31.14.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SMWxEMrhmvnBUZATJebIlLdlMM7XOLvXBzgt9XYJ9zk&security=reality&sid=3decb73e&sni=store.steampowered.com&type=tcp#🇳🇱NL_226KB/s_1208ms
 vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@netv.amirshee9090.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=netv.amirshee9090.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=netv.amirshee9090.workers.dev#🇦🇿AZ_223KB/s_1094ms
