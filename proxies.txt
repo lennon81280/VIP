@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-15 02:00:12
+# Updated: 2026-02-15 03:00:16
 # Total: 126 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -73,7 +73,7 @@ vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?s
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪DE_341KB/s_869ms
 vless://f4d11a91-c69e-3a9e-8224-3379e00ae9c4@hk01.fualta.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c&type=tcp&headerType=none#🇭🇰HK_341KB/s_1478ms
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_341KB/s_1501ms
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#🇫🇮FI_341KB/s_862ms
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#🇫🇮FI_341KB/s_909ms
 vless://8f0e2663-e7a5-4fc4-b30a-2d273cea0ab0@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QsroBDj-cTKMmebskdVCebgi9oWueYwN52mzoKG24zw&security=reality&sid=c33eb8cbd38a3f62&sni=splitter.wb.ru&type=tcp#🇷🇺RU_341KB/s_458ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_306KB/s_1156ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_275KB/s_1148ms
@@ -126,8 +126,8 @@ vless://1eea1e0b-6388-491c-b310-5524e8384808@icshstor.site:23411?type=tcp&securi
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_108KB/s_584ms
 vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@112.120.103.25:20519?security=reality&flow=xtls-rprx-vision&sni=buylite.music.apple.com&type=tcp&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇭🇰HK_102KB/s_1198ms
 vless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@95.85.224.18:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=chat.deepseek.com#🇦🇱AL_102KB/s_825ms
-vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@112.120.103.25:20516?security=reality&flow=xtls-rprx-vision&sni=buylite.music.apple.com&type=tcp&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇭🇰HK_102KB/s_1144ms
-vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@162.248.166.66:4443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#🇩🇪DE_102KB/s_803ms
+vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@112.120.103.25:20516?security=reality&flow=xtls-rprx-vision&sni=buylite.music.apple.com&type=tcp&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇭🇰HK_102KB/s_1128ms
+vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@162.248.166.66:4443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#🇩🇪DE_102KB/s_501ms
 vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461&sni=apple.com#🇱🇻LV_93KB/s_679ms
 vless://480f6125-72c7-479a-bf7b-c1f97a77e3e4@l11.cesar2.click:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇳🇱NL_84KB/s_735ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_79KB/s_1057ms
