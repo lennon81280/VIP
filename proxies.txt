@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-14 13:00:16
+# Updated: 2026-02-14 14:00:02
 # Total: 110 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -69,7 +69,7 @@ vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?s
 vless://f4d11a91-c69e-3a9e-8224-3379e00ae9c4@hk01.fualta.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c&type=tcp&headerType=none#🇭🇰HK_341KB/s_1478ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_306KB/s_1156ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_275KB/s_1148ms
-vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=reality&encryption=none&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&headerType=none&fp=chrome&spx=/W6ecV2qfqw14fC6&type=tcp&sni=tgju.org&sid=3543d68a#🇫🇷FR_256KB/s_830ms
+vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=reality&encryption=none&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&headerType=none&fp=chrome&spx=/W6ecV2qfqw14fC6&type=tcp&sni=tgju.org&sid=3543d68a#🇷🇺RU_256KB/s_576ms
 vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=tls&encryption=none&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a&type=tcp&headerType=none&path=%2f&allow_insecure=0#🇫🇷FR_256KB/s_599ms
 vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@myserviran.serviran.workers.dev:443/?type=ws&security=tls&sni=myserviran.serviran.workers.dev&host=myserviran.serviran.workers.dev&path=/?ed=2048&fp=chrome#🇩🇪DE_256KB/s_818ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_256KB/s_1609ms
