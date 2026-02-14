@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-14 05:00:08
-# Total: 95 working proxies
+# Updated: 2026-02-14 06:00:06
+# Total: 97 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
@@ -10,7 +10,7 @@ trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_256KB/s_1277ms
 trojan://BxceQaOe@13.113.192.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵JP_80KB/s_1376ms
 
-# === VLESS (92) ===
+# === VLESS (94) ===
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
@@ -34,6 +34,7 @@ vless://2d471762-78e0-4a2a-a940-c0e606aff04b@172.64.155.209:443/?type=ws&encrypt
 vless://4c45d485-aee8-4150-acb3-e2c73ff15c70@81.12.91.10:443?security=reality&encryption=none&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&headerType=none&fp=chrome&spx=/example&type=tcp&sni=www.git-scm.com&sid=e081d94bd1f9bd56#🇵🇱PL_512KB/s_887ms
 vless://d37303d1-e7c0-45dc-8128-1e17d3db31d4@srv56.towersflowerss.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=srv56.towersflowerss.com&fp=chrome&security=reality&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&sid=#🇩🇪DE_512KB/s_1206ms
 vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?path=%2Fv2rayroad&security=tls&encryption=none&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&sni=hotchoclate.graphapp.ir#🇩🇪DE_512KB/s_811ms
+vless://3b725c8f-4555-4442-9295-fd733a9cd9d9@37.202.234.207:1095?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#🇴🇲OM_512KB/s_530ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_417KB/s_1105ms
 vless://d7015342-4ab0-4161-e1e0-3e9f8766ea1a@85.133.145.207:2096?type=tcp&headerType=none&security=none#🇩🇪DE_397KB/s_1525ms
 vless://de18899f-6adf-497d-9979-7c4a565f6db9@109.122.249.76:443?security=reality&encryption=none&pbk=iWkuK1gG63Uhd2bkxLkYOKfN5azk080zgMok78P6Jlg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=skyroom.online&sid=7A756C612E69723A#🇫🇮FI_385KB/s_821ms
@@ -56,6 +57,7 @@ vless://cb6724d6-4900-4188-ae20-5d89b626394d@156.248.8.34:58472?encryption=none&
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_341KB/s_360ms
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#🇺🇸US_341KB/s_1252ms
 vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&host=Join---irani13---Join---irani13---Join---irani13---Join---irani13&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#🇱🇹LT_341KB/s_750ms
+vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_341KB/s_410ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_306KB/s_1156ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_275KB/s_1148ms
 vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=reality&encryption=none&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&headerType=none&fp=chrome&spx=/W6ecV2qfqw14fC6&type=tcp&sni=tgju.org&sid=3543d68a#🇫🇷FR_256KB/s_579ms
@@ -70,7 +72,7 @@ vless://80d277e5-d30a-49c6-8987-cb4d2cc79ee5@grinoree.ru:8443/?type=tcp&encrypti
 vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#🇱🇹LT_256KB/s_612ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_256KB/s_559ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_256KB/s_801ms
-vless://fbb2902b-a3b9-4963-bbfc-faf2d6449223@zone.se1.s2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇸🇪SE_256KB/s_628ms
+vless://fbb2902b-a3b9-4963-bbfc-faf2d6449223@zone.se1.s2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇸🇪SE_256KB/s_671ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_256KB/s_734ms
 vless://cab07d12-e2e7-4896-b698-76d22c063a39@185.231.113.179:15550?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_238KB/s_296ms
 vless://f5b63288-12cb-4a16-937a-f8ec4d60fb9a@144.31.14.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SMWxEMrhmvnBUZATJebIlLdlMM7XOLvXBzgt9XYJ9zk&security=reality&sid=3decb73e&sni=store.steampowered.com&type=tcp#🇳🇱NL_226KB/s_1208ms
@@ -94,7 +96,7 @@ vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?path=/IVApi/US/3&s
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?flow=&packetEncoding=xudp&path=/IVApi/US/3&type=ws#🇳🇱NL_146KB/s_833ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_146KB/s_909ms
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#🇩🇪DE_146KB/s_1171ms
-vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪DE_146KB/s_454ms
+vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪DE_146KB/s_569ms
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#🇩🇪DE_143KB/s_796ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_128KB/s_1545ms
 vless://1eea1e0b-6388-491c-b310-5524e8384808@icshstor.site:23411?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0Z7LFqDUF568Df972BbYorpeykKnN-Z98jHjDBnRbCE&sid=b69808&sni=icshstor.site#🇲🇩MD_114KB/s_956ms
