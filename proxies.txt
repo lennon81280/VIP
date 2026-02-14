@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-14 17:00:17
-# Total: 112 working proxies
+# Updated: 2026-02-14 18:00:03
+# Total: 114 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
@@ -10,11 +10,13 @@ trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_256KB/s_1277ms
 trojan://BxceQaOe@13.113.192.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵JP_80KB/s_1376ms
 
-# === VLESS (109) ===
+# === VLESS (111) ===
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2F#🇩🇪DE_1.0MB/s_983ms
+vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_1.0MB/s_507ms
+vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_973KB/s_895ms
 vless://3b725c8f-4555-4442-9295-fd733a9cd9d9@37.202.234.207:1095?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#🇴🇲OM_742KB/s_1377ms
 vless://3b725c8f-4555-4442-9295-fd733a9cd9d9@37.202.234.207:1095?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#🇴🇲OM_657KB/s_549ms
 vless://3b725c8f-4555-4442-9295-fd733a9cd9d9@37.202.234.207:1095?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#🇴🇲OM_621KB/s_866ms
