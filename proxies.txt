@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-15 16:00:23
-# Total: 154 working proxies
+# Updated: 2026-02-15 17:00:17
+# Total: 155 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
@@ -11,7 +11,7 @@ trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&inse
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_256KB/s_1277ms
 trojan://BxceQaOe@13.113.192.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵JP_80KB/s_1376ms
 
-# === VLESS (150) ===
+# === VLESS (151) ===
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
@@ -49,11 +49,12 @@ vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=/&security=t
 vless://a10607f9-d637-47e2-eadb-ad394b57514a@Tun.newdigitalstore.ir:40229?security=&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#🇩🇪DE_512KB/s_1891ms
 vless://9706248e-259e-4738-9cde-a3f7e11be4b8@antifiltervip.pwteam.ir:38463?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_512KB/s_550ms
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?security=none&type=ws&path=%2Fdownload&host=diarasup2.global.ssl.fastly.net#🇩🇪DE_512KB/s_613ms
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80/?type=tcp&security=none#🇹🇷TR_512KB/s_671ms
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80/?type=tcp&security=none#🇹🇷TR_512KB/s_514ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_512KB/s_710ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_417KB/s_1105ms
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪DE_413KB/s_602ms
 vless://64b5d863-81d6-48ea-9222-82030616fa63@193.42.11.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#🇩🇪DE_398KB/s_1655ms
+vless://e39b2db3-ad43-48d5-8d57-22e4998702b7@212.34.142.81:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=808e2d36726ee97e#🇳🇱NL_398KB/s_528ms
 vless://d7015342-4ab0-4161-e1e0-3e9f8766ea1a@85.133.145.207:2096?type=tcp&headerType=none&security=none#🇩🇪DE_397KB/s_1525ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_386KB/s_754ms
 vless://de18899f-6adf-497d-9979-7c4a565f6db9@109.122.249.76:443?security=reality&encryption=none&pbk=iWkuK1gG63Uhd2bkxLkYOKfN5azk080zgMok78P6Jlg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=skyroom.online&sid=7A756C612E69723A#🇫🇮FI_385KB/s_821ms
@@ -86,12 +87,12 @@ vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=no
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#🇫🇮FI_341KB/s_785ms
 vless://8f0e2663-e7a5-4fc4-b30a-2d273cea0ab0@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QsroBDj-cTKMmebskdVCebgi9oWueYwN52mzoKG24zw&security=reality&sid=c33eb8cbd38a3f62&sni=splitter.wb.ru&type=tcp#🇷🇺RU_341KB/s_1067ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_341KB/s_1043ms
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_341KB/s_654ms
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_341KB/s_895ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_306KB/s_1156ms
 vless://9706248e-259e-4738-9cde-a3f7e11be4b8@antifiltervip.pwteam.ir:38463?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_289KB/s_534ms
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_289KB/s_602ms
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_289KB/s_848ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_275KB/s_1148ms
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80/?type=tcp&security=none#🇹🇷TR_259KB/s_663ms
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80/?type=tcp&security=none#🇹🇷TR_259KB/s_515ms
 vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=reality&encryption=none&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&headerType=none&fp=chrome&spx=/W6ecV2qfqw14fC6&type=tcp&sni=tgju.org&sid=3543d68a#🇷🇺RU_256KB/s_789ms
 vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?security=tls&encryption=none&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a&type=tcp&headerType=none&path=%2f&allow_insecure=0#🇫🇷FR_256KB/s_599ms
 vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@myserviran.serviran.workers.dev:443/?type=ws&security=tls&sni=myserviran.serviran.workers.dev&host=myserviran.serviran.workers.dev&path=/?ed=2048&fp=chrome#🇩🇪DE_256KB/s_818ms
@@ -111,7 +112,7 @@ vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=none&en
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_256KB/s_412ms
 vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=none&type=tcp&encryption=none#🌍Unknown_256KB/s_419ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&type=tcp&encryption=none#🇹🇷TR_256KB/s_549ms
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_246KB/s_598ms
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_246KB/s_591ms
 vless://cab07d12-e2e7-4896-b698-76d22c063a39@185.231.113.179:15550?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_238KB/s_296ms
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#🇩🇪DE_235KB/s_524ms
 vless://f5b63288-12cb-4a16-937a-f8ec4d60fb9a@144.31.14.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SMWxEMrhmvnBUZATJebIlLdlMM7XOLvXBzgt9XYJ9zk&security=reality&sid=3decb73e&sni=store.steampowered.com&type=tcp#🇳🇱NL_226KB/s_1208ms
@@ -133,7 +134,7 @@ vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=none&ty
 vless://31063d07-a322-49d9-c253-486d80a00201@46.38.138.221:2020?security=none&type=tcp&encryption=none#🇫🇮FI_205KB/s_405ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_205KB/s_955ms
 vless://6fa4c714-14d4-408b-badd-50f7a23801cf@fr1.nerpvpn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&sni=store.steampowered.com#🇲🇩MD_192KB/s_771ms
-vless://e39b2db3-ad43-48d5-8d57-22e4998702b7@212.34.142.81:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=808e2d36726ee97e#🇳🇱NL_171KB/s_584ms
+vless://e39b2db3-ad43-48d5-8d57-22e4998702b7@212.34.142.81:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=808e2d36726ee97e#🇳🇱NL_171KB/s_801ms
 vless://a4c6ec2d-e912-47a8-ab05-b34f861491bb@85.133.197.218:8880?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_169KB/s_316ms
 vless://cab07d12-e2e7-4896-b698-76d22c063a39@185.231.113.179:15550?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_157KB/s_466ms
 vless://e9cb4760-49e1-4091-a3b4-995dda32433e@213.165.56.23:2087?security=reality&encryption=none&pbk=5FlKF0pkOifxV2ZzFnI5bk06MfjBHPzpJVH6_eu8iCI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=b0#🇳🇱NL_146KB/s_532ms
@@ -143,7 +144,7 @@ vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram--
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#🇩🇪DE_146KB/s_1171ms
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪DE_146KB/s_470ms
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_146KB/s_889ms
-vless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@77.92.145.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4S6qXLdepEjgOeFBIbZmC-4ChOqGgM9l4vEedKw8rVk&sid=d82fb387&sni=www.apple.com#🇹🇷TR_146KB/s_860ms
+vless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@77.92.145.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4S6qXLdepEjgOeFBIbZmC-4ChOqGgM9l4vEedKw8rVk&sid=d82fb387&sni=www.apple.com#🇹🇷TR_146KB/s_1671ms
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#🇩🇪DE_143KB/s_796ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_128KB/s_1545ms
 vless://fe430457-84e1-49ec-a21f-4c5505015aea@na4.outbout.shop:8081?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇹🇷TR_128KB/s_756ms
