@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-15 08:00:31
+# Updated: 2026-02-15 09:00:01
 # Total: 144 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -80,7 +80,7 @@ vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?s
 vless://f4d11a91-c69e-3a9e-8224-3379e00ae9c4@hk01.fualta.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c&type=tcp&headerType=none#🇭🇰HK_341KB/s_1478ms
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_341KB/s_1501ms
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#🇫🇮FI_341KB/s_785ms
-vless://8f0e2663-e7a5-4fc4-b30a-2d273cea0ab0@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QsroBDj-cTKMmebskdVCebgi9oWueYwN52mzoKG24zw&security=reality&sid=c33eb8cbd38a3f62&sni=splitter.wb.ru&type=tcp#🇷🇺RU_341KB/s_610ms
+vless://8f0e2663-e7a5-4fc4-b30a-2d273cea0ab0@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QsroBDj-cTKMmebskdVCebgi9oWueYwN52mzoKG24zw&security=reality&sid=c33eb8cbd38a3f62&sni=splitter.wb.ru&type=tcp#🇷🇺RU_341KB/s_414ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_341KB/s_1043ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_306KB/s_1156ms
 vless://9706248e-259e-4738-9cde-a3f7e11be4b8@antifiltervip.pwteam.ir:38463?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_289KB/s_534ms
@@ -120,9 +120,9 @@ vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=%2Fcontaine
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_205KB/s_417ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_205KB/s_1152ms
 vless://31063d07-a322-49d9-c253-486d80a00201@46.38.138.221:2020?security=none&encryption=none&headerType=none&type=tcp#🇫🇮FI_205KB/s_481ms
-vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=none&type=tcp&encryption=none#🇳🇱NL_205KB/s_428ms
+vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=none&type=tcp&encryption=none#🇳🇱NL_205KB/s_466ms
 vless://31063d07-a322-49d9-c253-486d80a00201@46.38.138.221:2020?security=none&type=tcp&encryption=none#🇫🇮FI_205KB/s_405ms
-vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_205KB/s_463ms
+vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_205KB/s_955ms
 vless://6fa4c714-14d4-408b-badd-50f7a23801cf@fr1.nerpvpn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&sni=store.steampowered.com#🇲🇩MD_192KB/s_771ms
 vless://a4c6ec2d-e912-47a8-ab05-b34f861491bb@85.133.197.218:8880?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_169KB/s_316ms
 vless://cab07d12-e2e7-4896-b698-76d22c063a39@185.231.113.179:15550?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_157KB/s_466ms
