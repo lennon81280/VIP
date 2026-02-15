@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-15 18:00:07
+# Updated: 2026-02-15 19:00:02
 # Total: 157 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -146,7 +146,7 @@ vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram--
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#🇩🇪DE_146KB/s_1171ms
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪DE_146KB/s_470ms
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_146KB/s_889ms
-vless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@77.92.145.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4S6qXLdepEjgOeFBIbZmC-4ChOqGgM9l4vEedKw8rVk&sid=d82fb387&sni=www.apple.com#🇹🇷TR_146KB/s_1671ms
+vless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@77.92.145.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4S6qXLdepEjgOeFBIbZmC-4ChOqGgM9l4vEedKw8rVk&sid=d82fb387&sni=www.apple.com#🇹🇷TR_146KB/s_1328ms
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#🇩🇪DE_143KB/s_796ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_128KB/s_1545ms
 vless://fe430457-84e1-49ec-a21f-4c5505015aea@na4.outbout.shop:8081?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇹🇷TR_128KB/s_756ms
