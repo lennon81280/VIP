@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-16 15:00:04
+# Updated: 2026-02-16 16:00:17
 # Total: 240 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -74,7 +74,7 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇫🇮FI_512KB/s_762ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇫🇮FI_512KB/s_805ms
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇳🇱NL_512KB/s_852ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp#🇨🇭CH_512KB/s_1276ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp#🇨🇭CH_512KB/s_1210ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=none&type=tcp&headerType=&path=/&host=&note=@FreeOnlineVPN#🇨🇭CH_512KB/s_1998ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?type=ws&security=tls&sni=ipv4.yasharteam.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0&note=@FreeOnlineVPN#🇫🇮FI_512KB/s_1083ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#🇫🇮FI_512KB/s_806ms
@@ -90,13 +90,13 @@ vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1019?security=none&enc
 vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇩🇪DE_439KB/s_860ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_417KB/s_1105ms
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪DE_413KB/s_602ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s10.daneshvardost.com:26480?security=none&type=tcp#🇩🇪DE_411KB/s_549ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s10.daneshvardost.com:26480?security=none&type=tcp#🇩🇪DE_411KB/s_1163ms
 vless://64b5d863-81d6-48ea-9222-82030616fa63@193.42.11.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#🇩🇪DE_398KB/s_1655ms
 vless://e39b2db3-ad43-48d5-8d57-22e4998702b7@212.34.142.81:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=808e2d36726ee97e#🇳🇱NL_398KB/s_528ms
 vless://d7015342-4ab0-4161-e1e0-3e9f8766ea1a@85.133.145.207:2096?type=tcp&headerType=none&security=none#🇩🇪DE_397KB/s_1525ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_386KB/s_754ms
 vless://de18899f-6adf-497d-9979-7c4a565f6db9@109.122.249.76:443?security=reality&encryption=none&pbk=iWkuK1gG63Uhd2bkxLkYOKfN5azk080zgMok78P6Jlg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=skyroom.online&sid=7A756C612E69723A#🇫🇮FI_385KB/s_821ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s10.daneshvardost.com:26480?security=none&type=tcp#🇩🇪DE_380KB/s_591ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s10.daneshvardost.com:26480?security=none&type=tcp#🇩🇪DE_380KB/s_1323ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇫🇮FI_376KB/s_872ms
 vless://480f6125-72c7-479a-bf7b-c1f97a77e3e4@l11.cesar2.click:443?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#🇳🇱NL_374KB/s_484ms
 vless://e9cb4760-49e1-4091-a3b4-995dda32433e@213.165.56.23:2087?security=reality&type=tcp&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&sid=b0&pbk=5FlKF0pkOifxV2ZzFnI5bk06MfjBHPzpJVH6_eu8iCI&encryption=none#🇩🇪DE_369KB/s_481ms
