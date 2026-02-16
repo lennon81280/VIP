@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-16 21:00:16
+# Updated: 2026-02-16 22:00:02
 # Total: 248 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
