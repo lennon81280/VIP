@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-16 19:00:11
+# Updated: 2026-02-16 20:00:16
 # Total: 244 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -179,7 +179,7 @@ vless://e39b2db3-ad43-48d5-8d57-22e4998702b7@212.34.142.81:8443/?type=tcp&encryp
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇫🇮FI_256KB/s_845ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp#🇹🇷TR_256KB/s_570ms
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1005?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#🇫🇷FR_256KB/s_733ms
-vless://50a1f337-5c03-433b-96cd-4a3932d0ef9a@65.20.90.34:443?security=reality&encryption=none&pbk=P-goQ25SWzhlg7XEurGhJq2HpZftK80vEU_CSV068Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=9eee3d9d1d050f20#🇮🇳IN_256KB/s_1453ms
+vless://50a1f337-5c03-433b-96cd-4a3932d0ef9a@65.20.90.34:443?security=reality&encryption=none&pbk=P-goQ25SWzhlg7XEurGhJq2HpZftK80vEU_CSV068Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=9eee3d9d1d050f20#🇮🇳IN_256KB/s_1385ms
 vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?security=reality&encryption=none&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4374d295a4f9dd83#🇫🇮FI_256KB/s_783ms
 vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#🇫🇮FI_256KB/s_943ms
 vless://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?security=none&type=tcp#🇫🇮FI_256KB/s_400ms
