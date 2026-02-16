@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-16 06:00:25
+# Updated: 2026-02-16 07:00:16
 # Total: 210 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -162,7 +162,7 @@ vless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimki
 vless://f5b63288-12cb-4a16-937a-f8ec4d60fb9a@144.31.14.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SMWxEMrhmvnBUZATJebIlLdlMM7XOLvXBzgt9XYJ9zk&security=reality&sid=3decb73e&sni=store.steampowered.com&type=tcp#🇳🇱NL_226KB/s_1208ms
 vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@netv.amirshee9090.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=netv.amirshee9090.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=netv.amirshee9090.workers.dev#🇦🇿AZ_223KB/s_1094ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇩🇪DE_217KB/s_1324ms
-vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇩🇪DE_213KB/s_352ms
+vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇩🇪DE_213KB/s_343ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_209KB/s_1313ms
 vless://65704afe-e26a-4266-9ff3-4d09c0f04c14@51.250.77.188:3443?type=tcp&security=reality&encryption=none&sni=ads.x5.ru&flow=xtls-rprx-vision&fp=qq&sid=f3e8b2b1&spx=%2F&pbk=pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8#🇺🇸US_208KB/s_626ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=master.red-cow.de#🇩🇪DE_208KB/s_986ms
