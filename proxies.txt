@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-16 20:00:16
-# Total: 244 working proxies
+# Updated: 2026-02-16 21:00:16
+# Total: 248 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
@@ -16,7 +16,7 @@ trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_85KB/s_1692ms
 trojan://BxceQaOe@13.113.192.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵JP_80KB/s_1376ms
 
-# === VLESS (235) ===
+# === VLESS (239) ===
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
@@ -67,7 +67,7 @@ vless://9706248e-259e-4738-9cde-a3f7e11be4b8@antifiltervip.pwteam.ir:38463?secur
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?security=none&type=ws&path=%2Fdownload&host=diarasup2.global.ssl.fastly.net#🇩🇪DE_512KB/s_613ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80/?type=tcp&security=none#🇹🇷TR_512KB/s_514ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_512KB/s_647ms
-vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@77.111.101.80:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&sid=99#🇧🇷BR_512KB/s_1368ms
+vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@77.111.101.80:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&sid=99#🇧🇷BR_512KB/s_1357ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇩🇪DE_512KB/s_777ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇫🇮FI_512KB/s_887ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#🇫🇮FI_512KB/s_753ms
@@ -86,6 +86,7 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@193.162.129.39:26480?security=none&type=tcp#🇨🇭CH_512KB/s_914ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?security=tls&type=ws&path=%2F&host=ipv4.yasharteam.com&alpn=h2%2Chttp%2F1.1&sni=ipv4.yasharteam.com&fp=chrome&encryption=none#🇫🇮FI_512KB/s_780ms
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇩🇪DE_512KB/s_834ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?security=tls&type=ws&path=%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&host=6.3pita.com&alpn=http%2F1.1&sni=6.3pita.com&fp=chrome&encryption=none#🇩🇪DE_512KB/s_1329ms
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1019?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇳🇱NL_491KB/s_1439ms
 vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇩🇪DE_439KB/s_860ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_417KB/s_1105ms
@@ -144,6 +145,8 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@193.162.129.39:26480?security=none&
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?security=none&type=tcp#🇨🇭CH_341KB/s_1042ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&type=tcp&path=%2f#🇹🇷TR_341KB/s_781ms
 vless://ae4c18b0-12d2-4247-ae42-123271ccc41f@tr.shahanet.ir:2087?type=ws&encryption=none&path=%2Fapi%2Fv1%2Fchat&host=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=tr.shahanet.ir#🇹🇷TR_341KB/s_1406ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇹🇷TR_341KB/s_758ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl&security=tls&alpn=http/1.1&encryption=none&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#🇩🇪DE_341KB/s_910ms
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇳🇱NL_337KB/s_825ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp#🇨🇭CH_337KB/s_1107ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_306KB/s_1156ms
@@ -185,6 +188,7 @@ vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?encryption
 vless://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?security=none&type=tcp#🇫🇮FI_256KB/s_400ms
 vless://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?security=none&type=tcp#🇫🇮FI_256KB/s_455ms
 vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=reality&encryption=none&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&headerType=&fp=chrome&spx=/&type=tcp&sni=ea.com&sid=02#🇬🇧GB_256KB/s_1292ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇩🇪DE_246KB/s_772ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_246KB/s_906ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇫🇮FI_245KB/s_854ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&type=tcp&encryption=none#🇹🇷TR_240KB/s_580ms
