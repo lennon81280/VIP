@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-17 08:00:10
-# Total: 274 working proxies
+# Updated: 2026-02-17 09:00:25
+# Total: 280 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
@@ -18,7 +18,7 @@ trojan://r137979f@162.159.153.212:2087?sni=sheleqaz.emotionreza.workers.dev&type
 trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_85KB/s_1692ms
 trojan://BxceQaOe@13.113.192.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵JP_80KB/s_1376ms
 
-# === VLESS (263) ===
+# === VLESS (269) ===
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
@@ -162,6 +162,7 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/vpnbaz---vp
 vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=&encryption=none&headerType=&type=tcp#🇮🇷IR_341KB/s_598ms
 vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@78.157.47.137:1020?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&security=reality&sid=4374d295a4f9dd83&sni=yahoo.com&type=tcp#🇫🇮FI_341KB/s_742ms
 vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?security=tls&type=ws&path=%2F&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&fp=chrome&encryption=none#🇩🇪DE_341KB/s_600ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#🇨🇭CH_341KB/s_325ms
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇳🇱NL_337KB/s_825ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp#🇨🇭CH_337KB/s_1107ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_306KB/s_1156ms
@@ -209,6 +210,8 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/mtmvpn---mt
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.132:11824?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇳🇴NO_256KB/s_518ms
 vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?security=tls&type=ws&path=%2F&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&fp=chrome&encryption=none#🇩🇪DE_256KB/s_612ms
 vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?security=tls&type=ws&path=%2F&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&fp=chrome&encryption=none#🇩🇪DE_256KB/s_723ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?encryption=none&security=none&type=tcp&headerType=none#🇨🇭CH_256KB/s_618ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.132:21771?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇭🇰HK_256KB/s_892ms
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇩🇪DE_246KB/s_672ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_246KB/s_906ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇫🇮FI_245KB/s_854ms
@@ -259,6 +262,7 @@ vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=t
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪DE_146KB/s_470ms
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_146KB/s_889ms
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇺🇦UA_146KB/s_818ms
+vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:1015?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#🇮🇪IE_146KB/s_1106ms
 vless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@77.92.145.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4S6qXLdepEjgOeFBIbZmC-4ChOqGgM9l4vEedKw8rVk&sid=d82fb387&sni=www.apple.com#🇹🇷TR_146KB/s_678ms
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#🇩🇪DE_143KB/s_796ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_128KB/s_1545ms
@@ -274,11 +278,13 @@ vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@112.120.103.25:20519?security=reali
 vless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@95.85.224.18:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=chat.deepseek.com#🇦🇱AL_102KB/s_825ms
 vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@112.120.103.25:20516?security=reality&flow=xtls-rprx-vision&sni=buylite.music.apple.com&type=tcp&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇭🇰HK_102KB/s_1619ms
 vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@162.248.166.66:4443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#🇪🇸ES_102KB/s_600ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.136:26480?security=none&type=tcp&encryption=none#🇨🇭CH_102KB/s_704ms
 vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461&sni=apple.com#🇱🇻LV_93KB/s_679ms
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?security=none&type=ws&path=%2Fdownload&host=diarasup2.global.ssl.fastly.net#🇩🇪DE_85KB/s_597ms
 vless://fd42b237-7f9b-4285-b378-7ad1857deb07@ip3.kakeroo.ir:80?security=none&type=ws&path=%2F&host=basalyt.global.ssl.fastly.net&encryption=none#🇩🇪DE_85KB/s_604ms
 vless://480f6125-72c7-479a-bf7b-c1f97a77e3e4@l11.cesar2.click:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇳🇱NL_84KB/s_735ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&path=/IVApi/US/3#🇺🇸US_79KB/s_1057ms
 vless://480f6125-72c7-479a-bf7b-c1f97a77e3e4@l11.cesar2.click:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇳🇱NL_77KB/s_504ms
+vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:1017?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#🇪🇸ES_68KB/s_710ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇦🇿AZ_22B/s_858ms
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?path=%2Fgfdn0yadxgfr&encryption=none&type=ws&host=index.arcane509.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol#🇩🇪DE_22B/s_1561ms
