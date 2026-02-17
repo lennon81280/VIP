@@ -1,12 +1,12 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-17 03:00:16
-# Total: 256 working proxies
+# Updated: 2026-02-17 04:00:05
+# Total: 258 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
 
 # === TROJAN (9) ===
-trojan://r137979f@162.159.153.212:2087?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=ws&security=tls&path=/?ed=2560&host=sheleqaz.emotionreza.workers.dev&sni=sheleqaz.emotionreza.workers.dev&fp=chrome#🇩🇪DE_512KB/s_584ms
+trojan://r137979f@162.159.153.212:2087?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=ws&security=tls&path=/?ed=2560&host=sheleqaz.emotionreza.workers.dev&sni=sheleqaz.emotionreza.workers.dev&fp=chrome#🇩🇪DE_512KB/s_650ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇺🇸US_512KB/s_1548ms
 trojan://r137979f@162.159.153.212:2087?sni=sheleqaz.emotionreza.workers.dev&type=ws&path=%2F%3Fed%3D2560&fp=chrome#🇩🇪DE_512KB/s_602ms
 trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_341KB/s_1269ms
@@ -16,7 +16,7 @@ trojan://BxceQaOe@95.40.77.248:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_85KB/s_1692ms
 trojan://BxceQaOe@13.113.192.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵JP_80KB/s_1376ms
 
-# === VLESS (247) ===
+# === VLESS (249) ===
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
@@ -151,6 +151,7 @@ vless://ae4c18b0-12d2-4247-ae42-123271ccc41f@tr.shahanet.ir:2087?type=ws&encrypt
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇩🇪DE_341KB/s_714ms
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl&security=tls&alpn=http/1.1&encryption=none&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#🇩🇪DE_341KB/s_724ms
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇩🇪DE_341KB/s_596ms
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=&encryption=none&headerType=&type=tcp#🇮🇷IR_341KB/s_598ms
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇳🇱NL_337KB/s_825ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp#🇨🇭CH_337KB/s_1107ms
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#🇩🇪DE_306KB/s_1156ms
@@ -195,6 +196,7 @@ vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=rea
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇹🇷TR_256KB/s_668ms
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?security=tls&type=ws&path=/mtmvpnmtmvpnmtmvpnmtmvpnmtmvpnmtmvpnmtmvpnmtmvpnmtmvpnmtmvpnmtmvpnmtmvpnmtmvpnmtmvpnmtmvpn&host=6.3pita.com&alpn=http/1.1&sni=6.3pita.com&fp=chrome&encryption=none&note=@FreeOnlineVPN#🇩🇪DE_256KB/s_705ms
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇩🇪DE_256KB/s_709ms
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.132:11824?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇳🇴NO_256KB/s_518ms
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇩🇪DE_246KB/s_672ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_246KB/s_906ms
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇫🇮FI_245KB/s_854ms
