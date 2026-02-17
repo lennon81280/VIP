@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-17 09:00:25
+# Updated: 2026-02-17 10:00:14
 # Total: 280 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
@@ -92,7 +92,7 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=%2Fvpnowl-vp
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?security=tls&type=ws&path=%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&host=6.3pita.com&alpn=http%2F1.1&sni=6.3pita.com&fp=chrome&encryption=none#🇩🇪DE_512KB/s_1002ms
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=AliXTso-AliXTso-AliXTso-AliXTso-AliXTso-AliXTso-AliXTso-AliXTso-AliXTso-AliXTso-AliXTso-AliXTso-AliXTso-AliXTso-AliXTso&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇩🇪DE_512KB/s_637ms
 vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=&encryption=none&headerType=&type=tcp#🇮🇷IR_512KB/s_639ms
-vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&type=ws&path=%2Fukspeed&host=snapfood.org&alpn=http%2F1.1&sni=snapfood.org&fp=chrome&encryption=none#🇸🇪SE_512KB/s_783ms
+vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&type=ws&path=%2Fukspeed&host=snapfood.org&alpn=http%2F1.1&sni=snapfood.org&fp=chrome&encryption=none#🇩🇪DE_512KB/s_788ms
 vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&type=ws&path=%2Fukspeed&host=snapfood.org&alpn=http%2F1.1&sni=snapfood.org&fp=chrome&encryption=none#🇩🇪DE_512KB/s_800ms
 vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&type=ws&path=%2Fukspeed&host=snapfood.org&alpn=http%2F1.1&sni=snapfood.org&fp=chrome&encryption=none#🇩🇪DE_512KB/s_815ms
 vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?security=tls&type=ws&path=%2F&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&fp=chrome&encryption=none#🇩🇪DE_512KB/s_1747ms
@@ -267,7 +267,7 @@ vless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@77.92.145.245:443?type=tcp&security
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#🇩🇪DE_143KB/s_796ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_128KB/s_1545ms
 vless://fe430457-84e1-49ec-a21f-4c5505015aea@na4.outbout.shop:8081?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇹🇷TR_128KB/s_756ms
-vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=none&type=tcp&encryption=none#🇫🇷FR_128KB/s_593ms
+vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=none&type=tcp&encryption=none#🇫🇷FR_128KB/s_1761ms
 vless://44bb30a9-d89e-4b92-c78f-b68e4eedc99c@46.38.138.221:2020?security=none&encryption=none&headerType=none&type=tcp#🇫🇮FI_128KB/s_536ms
 vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323/?type=tcp&encryption=none#🇬🇧GB_126KB/s_1659ms
 vless://1eea1e0b-6388-491c-b310-5524e8384808@icshstor.site:23411?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0Z7LFqDUF568Df972BbYorpeykKnN-Z98jHjDBnRbCE&sid=b69808&sni=icshstor.site#🇲🇩MD_114KB/s_956ms
