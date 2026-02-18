@@ -1,7 +1,7 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-18 22:00:01
-# Total: 317 working proxies
-# Speed test: http://cachefly.cachefly.net/1mb.test
+# Updated: 2026-02-18 23:00:16
+# Total: 318 working proxies
+# Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
@@ -20,7 +20,8 @@ trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=www.nintendogam
 trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_85KB/s_1692ms
 trojan://BxceQaOe@13.113.192.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵JP_80KB/s_1376ms
 
-# === VLESS (304) ===
+# === VLESS (305) ===
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?security=none&type=ws&path=%2F&host=blog.zanborak-shop.ir&encryption=none#🇫🇮FI_1.7MB/s_1423ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
