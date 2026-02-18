@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-18 14:00:02
-# Total: 316 working proxies
+# Updated: 2026-02-18 15:00:04
+# Total: 317 working proxies
 # Speed test: http://cachefly.cachefly.net/1mb.test
 #
 # Format: link#country_speed_latency
@@ -20,7 +20,7 @@ trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=www.nintendogam
 trojan://BxceQaOe@13.192.163.115:381?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_85KB/s_1692ms
 trojan://BxceQaOe@13.113.192.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵JP_80KB/s_1376ms
 
-# === VLESS (303) ===
+# === VLESS (304) ===
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/#🇩🇪DE_1.0MB/s_785ms
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#🇩🇪DE_1.0MB/s_803ms
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#🇩🇪DE_1.0MB/s_1560ms
@@ -152,7 +152,7 @@ vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?s
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪DE_341KB/s_869ms
 vless://f4d11a91-c69e-3a9e-8224-3379e00ae9c4@hk01.fualta.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Vc8ycAgKqfRvtXjvGP0ry_U91o5wgrQlqOhHq72HYRs&sid=1bc2c1ef1c&type=tcp&headerType=none#🇭🇰HK_341KB/s_1478ms
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@193.151.138.239:24574?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_341KB/s_1501ms
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#🇫🇮FI_341KB/s_785ms
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#🇫🇮FI_341KB/s_1240ms
 vless://8f0e2663-e7a5-4fc4-b30a-2d273cea0ab0@51.250.42.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QsroBDj-cTKMmebskdVCebgi9oWueYwN52mzoKG24zw&security=reality&sid=c33eb8cbd38a3f62&sni=splitter.wb.ru&type=tcp#🇷🇺RU_341KB/s_1067ms
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🇩🇪DE_341KB/s_1043ms
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_341KB/s_607ms
@@ -180,6 +180,7 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&t
 vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@ip.bestfrends.ir:8587?encryption=none&security=none&type=tcp&headerType=none#🇩🇪DE_341KB/s_469ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?encryption=none&security=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇩🇪DE_341KB/s_523ms
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@ir-vip.whaletm2.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪DE_341KB/s_324ms
+vless://8db31176-aed6-402d-aa1b-a8b04b5c3b48@193.242.125.18:80?security=&encryption=none&headerType=none&type=tcp#🇫🇷FR_341KB/s_403ms
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇳🇱NL_337KB/s_825ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp#🇨🇭CH_337KB/s_1107ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#🇩🇪DE_314KB/s_535ms
