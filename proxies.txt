@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-19 16:00:16
-# Total: 30 working proxies
+# Updated: 2026-02-19 17:00:06
+# Total: 31 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -10,7 +10,7 @@ trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&inse
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸US_853KB/s_1039ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵JP_512KB/s_1118ms
 
-# === VLESS (27) ===
+# === VLESS (28) ===
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?security=none&type=ws&path=%2F&host=blog.zanborak-shop.ir&encryption=none#🇫🇮FI_1.7MB/s_1218ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-tm189.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-tm189.netsnap.ir#🇬🇧GB_1.7MB/s_842ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.7MB/s_987ms
@@ -19,6 +19,7 @@ vless://5ee35c04-1663-4eda-a06c-9f9c0fa3ca5c@87.120.216.186:443?security=reality
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?security=tls&type=ws&path=/R8I9Yqu0DxpQB2NKCxLA&host=data-tm189.netsnap.ir&alpn=h2,http/1.1&sni=data-tm189.netsnap.ir&fp=chrome&encryption=none#🇹🇷TR_1.2MB/s_1592ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&host=data-tm189.netsnap.ir&fp=chrome&type=ws&sni=data-tm189.netsnap.ir#🇬🇧GB_1.2MB/s_870ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-tm189.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-tm189.netsnap.ir#🇹🇷TR_1.2MB/s_892ms
+vless://ebbd36ae-f2eb-2b49-707b-4d5768affcd9@l98.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇳🇱NL_1.2MB/s_862ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.0MB/s_733ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-tm189.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-tm189.netsnap.ir#🇬🇧GB_1.0MB/s_923ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?security=tls&type=ws&path=%2FR8I9Yqu0DxpQB2NKCxLA&host=data-tm189.netsnap.ir&alpn=h2%2Chttp%2F1.1&sni=data-tm189.netsnap.ir&fp=chrome&encryption=none#🇹🇷TR_1.0MB/s_964ms
