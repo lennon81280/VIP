@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-19 09:00:17
+# Updated: 2026-02-19 10:00:06
 # Total: 34 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -19,14 +19,14 @@ vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?security=tls
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&host=data-tm189.netsnap.ir&fp=chrome&type=ws&sni=data-tm189.netsnap.ir#🇬🇧GB_1.2MB/s_628ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-tm189.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-tm189.netsnap.ir#🇹🇷TR_1.2MB/s_892ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.0MB/s_733ms
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-tm189.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-tm189.netsnap.ir#🇬🇧GB_1.0MB/s_566ms
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?security=tls&type=ws&path=%2FR8I9Yqu0DxpQB2NKCxLA&host=data-tm189.netsnap.ir&alpn=h2%2Chttp%2F1.1&sni=data-tm189.netsnap.ir&fp=chrome&encryption=none#🇬🇧GB_1.0MB/s_748ms
+vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-tm189.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-tm189.netsnap.ir#🇹🇷TR_1.0MB/s_878ms
+vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?security=tls&type=ws&path=%2FR8I9Yqu0DxpQB2NKCxLA&host=data-tm189.netsnap.ir&alpn=h2%2Chttp%2F1.1&sni=data-tm189.netsnap.ir&fp=chrome&encryption=none#🇬🇧GB_1.0MB/s_1227ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.0MB/s_888ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=ws&security=tls&sni=data-tm189.netsnap.ir&host=data-tm189.netsnap.ir&path=/R8I9Yqu0DxpQB2NKCxLA&alpn=h2,http/1.1&fp=chrome&allowInsecure=0&encryption=none#🇹🇷TR_1002KB/s_1020ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?note=---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---&type=ws&security=tls&sni=data-tm189.netsnap.ir&host=data-tm189.netsnap.ir&path=/R8I9Yqu0DxpQB2NKCxLA&alpn=h2,http/1.1&fp=chrome&allowInsecure=0&encryption=none#🇹🇷TR_853KB/s_885ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-tm189.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-tm189.netsnap.ir#🇹🇷TR_853KB/s_628ms
 vless://5ee35c04-1663-4eda-a06c-9f9c0fa3ca5c@87.120.216.186:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#🇩🇪DE_731KB/s_496ms
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=ws&security=tls&sni=data-tm189.netsnap.ir&host=data-tm189.netsnap.ir&path=/R8I9Yqu0DxpQB2NKCxLA&alpn=h2,http/1.1&fp=chrome&allowInsecure=0&encryption=none#🇬🇧GB_731KB/s_898ms
+vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=ws&security=tls&sni=data-tm189.netsnap.ir&host=data-tm189.netsnap.ir&path=/R8I9Yqu0DxpQB2NKCxLA&alpn=h2,http/1.1&fp=chrome&allowInsecure=0&encryption=none#🇹🇷TR_731KB/s_914ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@www.speedtest.net:8443?security=tls&type=ws&path=%2FR8I9Yqu0DxpQB2NKCxLA&host=data-tm189.netsnap.ir&alpn=h2%2Chttp%2F1.1&sni=data-tm189.netsnap.ir&fp=chrome&encryption=none#🇬🇧GB_731KB/s_903ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir#🇫🇷FR_731KB/s_792ms
 vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?security=none&encryption=none&host=fsn.bestlive.ir&headerType=http&type=tcp#🇩🇪DE_563KB/s_310ms
