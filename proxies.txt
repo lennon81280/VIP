@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-19 03:00:16
-# Total: 32 working proxies
+# Updated: 2026-02-19 04:00:22
+# Total: 31 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -10,11 +10,11 @@ trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&inse
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸US_853KB/s_1039ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵JP_512KB/s_1118ms
 
-# === VLESS (29) ===
+# === VLESS (28) ===
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?security=none&type=ws&path=%2F&host=blog.zanborak-shop.ir&encryption=none#🇫🇮FI_1.7MB/s_1218ms
 vless://5ee35c04-1663-4eda-a06c-9f9c0fa3ca5c@87.120.216.186:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#🇩🇪DE_1.2MB/s_499ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#🇩🇪DE_1.0MB/s_477ms
-vless://5ee35c04-1663-4eda-a06c-9f9c0fa3ca5c@87.120.216.186:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#🇩🇪DE_731KB/s_484ms
+vless://5ee35c04-1663-4eda-a06c-9f9c0fa3ca5c@87.120.216.186:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#🇩🇪DE_731KB/s_506ms
 vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?security=none&encryption=none&host=fsn.bestlive.ir&headerType=http&type=tcp#🇩🇪DE_563KB/s_310ms
 vless://a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?path=%2Fv2rayroad&security=tls&encryption=none&insecure=0&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&allowInsecure=0&sni=hotchoclate.graphapp.ir#🇩🇪DE_512KB/s_707ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#🇩🇪DE_512KB/s_576ms
@@ -29,7 +29,6 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?encryption=none
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@ir-vip.whaletm2.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪DE_341KB/s_324ms
 vless://8db31176-aed6-402d-aa1b-a8b04b5c3b48@193.242.125.18:80?security=&encryption=none&headerType=none&type=tcp#🇫🇷FR_341KB/s_403ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#🇩🇪DE_314KB/s_535ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.225.157:26480?encryption=none&security=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇩🇪DE_256KB/s_1179ms
 vless://a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?security=tls&type=ws&path=%2Fv2rayroad&host=hotchoclate.graphapp.ir&sni=hotchoclate.graphapp.ir&fp=chrome&encryption=none#🇩🇪DE_256KB/s_879ms
 vless://a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?security=tls&type=ws&path=%2Fv2rayroad&host=hotchoclate.graphapp.ir&sni=hotchoclate.graphapp.ir&fp=chrome&encryption=none#🇩🇪DE_256KB/s_737ms
 vless://a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?security=tls&type=ws&path=%2Fv2rayroad&host=hotchoclate.graphapp.ir&sni=hotchoclate.graphapp.ir&fp=chrome&encryption=none#🇩🇪DE_256KB/s_785ms
