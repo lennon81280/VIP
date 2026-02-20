@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-20 11:00:17
+# Updated: 2026-02-20 12:00:18
 # Total: 31 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -32,7 +32,7 @@ vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_853KB/s_1308ms
 vless://0696d558-118e-4613-8262-59fe272cac59@94.101.178.163:2086?security=none&type=tcp#🇩🇪DE_761KB/s_507ms
 vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?encryption=none&security=none&type=tcp&headerType=none#🇩🇪DE_731KB/s_1177ms
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?security=tls&type=ws&headerType=&path=/R8I9Yqu0DxpQB2NKCxLA&host=data-um110.netsnap.ir&sni=data-um110.netsnap.ir&fp=chrome&alpn=h2,http/1.1#🇬🇧GB_701KB/s_1221ms
+vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?security=tls&type=ws&headerType=&path=/R8I9Yqu0DxpQB2NKCxLA&host=data-um110.netsnap.ir&sni=data-um110.netsnap.ir&fp=chrome&alpn=h2,http/1.1#🇬🇧GB_701KB/s_1155ms
 vless://4cf2e843-31b1-4ad7-ae33-0d092e12d396@85.9.96.221:41128?security=none&encryption=none&host=@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,&headerType=none&type=tcp#🇩🇪DE_640KB/s_373ms
 vless://4cf2e843-31b1-4ad7-ae33-0d092e12d396@85.9.96.221:41128?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_640KB/s_390ms
 vless://4cf2e843-31b1-4ad7-ae33-0d092e12d396@85.9.96.221:41128?security=none&type=tcp#🇩🇪DE_569KB/s_400ms
