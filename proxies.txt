@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-20 08:01:19
-# Total: 30 working proxies
+# Updated: 2026-02-20 09:00:41
+# Total: 31 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -11,16 +11,17 @@ trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&inse
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?sni=iepl.usq1.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸US_859KB/s_1629ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵JP_465KB/s_1118ms
 
-# === VLESS (26) ===
+# === VLESS (27) ===
 vless://0696d558-118e-4613-8262-59fe272cac59@94.101.178.163:2086?encryption=none&security=none&type=tcp&headerType=none#🇩🇪DE_1.8MB/s_296ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.7MB/s_987ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.7MB/s_1002ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.7MB/s_708ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.7MB/s_764ms
 vless://e54e22d3-0576-44ab-a4fb-5c76fff4325b@data.cloudvibe.ir:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-nm134.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-nm134.netsnap.ir#🇳🇱NL_1.6MB/s_1051ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.6MB/s_1319ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir#🇫🇷FR_1.2MB/s_765ms
 vless://4cf2e843-31b1-4ad7-ae33-0d092e12d396@85.9.96.221:41128?encryption=none&security=none&type=tcp&headerType=none#🇩🇪DE_1.2MB/s_415ms
 vless://ebbd36ae-f2eb-2b49-707b-4d5768affcd9@l98.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇳🇱NL_1.2MB/s_862ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir#🇫🇷FR_1.0MB/s_1453ms
 vless://2d012548-e401-44d0-b31d-9770e60a72ae@94.183.150.59:80?security=none&encryption=none&headerType=none&type=tcp#🇹🇷TR_1.0MB/s_519ms
 vless://b91ced3a-c8c4-45b7-8c92-71b11f8ce095@172.189.59.38:51520?security=none&encryption=none&headerType=none&type=tcp#🇫🇷FR_1.0MB/s_536ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir&note=@FreeOnlineVPN#🇫🇷FR_1.0MB/s_1076ms
