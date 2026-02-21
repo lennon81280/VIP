@@ -1,33 +1,29 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-21 04:00:16
-# Total: 26 working proxies
+# Updated: 2026-02-21 06:00:40
+# Total: 22 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === TROJAN (3) ===
+# === TROJAN (2) ===
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com&note=@FreeOnlineVPN#🇺🇸US_1.2MB/s_1532ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵JP_465KB/s_1118ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸US_394KB/s_1039ms
 
-# === VLESS (23) ===
+# === VLESS (20) ===
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=1&sni=data-frm2.netsnap.ir#🇫🇷FR_2.3MB/s_1052ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_2.1MB/s_987ms
-vless://0696d558-118e-4613-8262-59fe272cac59@94.101.178.163:2086?encryption=none&security=none&type=tcp&headerType=none#🇩🇪DE_1.8MB/s_296ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.7MB/s_1002ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.7MB/s_708ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.7MB/s_1351ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_1.6MB/s_1319ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir#🇫🇷FR_1.2MB/s_765ms
 vless://4cf2e843-31b1-4ad7-ae33-0d092e12d396@85.9.96.221:41128?encryption=none&security=none&type=tcp&headerType=none#🇩🇪DE_1.2MB/s_415ms
 vless://a0019576-b214-4a9e-9bee-52adbb5c2af8@tn9.radmardmax.ir:7559?security=none&encryption=none&headerType=http&type=tcp#🇫🇮FI_1.2MB/s_916ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir#🇫🇷FR_1.0MB/s_1453ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir&note=@FreeOnlineVPN#🇫🇷FR_1.0MB/s_1076ms
 vless://8731868b-7714-4282-af80-25c704de24a5@lit.litiran.ir:2083?security=tls&encryption=none&host=videogame-al.kafeistanbul.shop&type=ws&sni=videogame-al.kafeistanbul.shop#🇦🇱AL_1.0MB/s_935ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir#🇫🇷FR_1.0MB/s_772ms
-vless://cb637e7c-6339-4d64-9782-148a43c57683@144.31.170.170:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lOSr-9AoQwZVwhuonEZxeHvVxN9kHpdDIePpRoPAzkM&security=reality&sid=84ba23f581ad7a15&sni=www.cloudflare.com&type=tcp#🇪🇪EE_1.0MB/s_649ms
-vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_892KB/s_712ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_853KB/s_733ms
+vless://cb637e7c-6339-4d64-9782-148a43c57683@144.31.170.170:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lOSr-9AoQwZVwhuonEZxeHvVxN9kHpdDIePpRoPAzkM&security=reality&sid=84ba23f581ad7a15&sni=www.cloudflare.com&type=tcp#🇪🇪EE_1.0MB/s_632ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇩🇪DE_1.0MB/s_1271ms
+vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_892KB/s_697ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_853KB/s_1308ms
 vless://9b331513-de55-411e-8f45-8fff82539ee9@tn9.radmardmax.ir:7559?security=none&encryption=none&headerType=http&type=tcp#🇫🇮FI_731KB/s_879ms
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?security=tls&type=ws&headerType=&path=/R8I9Yqu0DxpQB2NKCxLA&host=data-um110.netsnap.ir&sni=data-um110.netsnap.ir&fp=chrome&alpn=h2,http/1.1#🇬🇧GB_701KB/s_1093ms
