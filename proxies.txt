@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-21 15:00:17
+# Updated: 2026-02-21 16:00:50
 # Total: 23 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -11,7 +11,6 @@ trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&inse
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸US_394KB/s_1039ms
 
 # === VLESS (20) ===
-vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=1&sni=data-frm2.netsnap.ir#🇫🇷FR_2.3MB/s_1052ms
 vless://32e97345-6a66-4810-9821-82f07a0e2d6c@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#🇫🇮FI_1.7MB/s_562ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_1.7MB/s_1431ms
 vless://a0019576-b214-4a9e-9bee-52adbb5c2af8@tn9.radmardmax.ir:7559?security=none&encryption=none&headerType=http&type=tcp#🇫🇮FI_1.2MB/s_916ms
@@ -31,3 +30,4 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&sec
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws&sni=cd11.thisiswe.uno#🇩🇪DE_731KB/s_787ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_640KB/s_1206ms
 vless://32e97345-6a66-4810-9821-82f07a0e2d6c@91.234.147.68:6665?security=none&encryption=none&headerType=http&type=tcp#🇨🇭CH_569KB/s_457ms
+vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_427KB/s_751ms
