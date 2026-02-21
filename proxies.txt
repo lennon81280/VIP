@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-22 01:00:26
-# Total: 34 working proxies
+# Updated: 2026-02-22 02:03:20
+# Total: 35 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -10,7 +10,7 @@ trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&inse
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇺🇸US_1.2MB/s_1490ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸US_394KB/s_1039ms
 
-# === VLESS (31) ===
+# === VLESS (32) ===
 vless://32e97345-6a66-4810-9821-82f07a0e2d6c@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#🇫🇮FI_1.7MB/s_562ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_1.7MB/s_662ms
 vless://ee39416c-51ad-4091-abcd-3ffa04ca39ce@185.124.175.217:7730?encryption=none&security=none&type=grpc&authority=&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm&mode=gun#🇩🇪DE_1.7MB/s_1255ms
@@ -25,6 +25,7 @@ vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=
 vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&type=ws&path=/&alpn=h3,h2,http/1.1&sni=proxy.rahmancloud.ir&fp=chrome&encryption=none#🇺🇸US_853KB/s_1230ms
 vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&type=ws&path=/&alpn=h3,h2,http/1.1&sni=proxy.rahmancloud.ir&fp=chrome&encryption=none#🇺🇸US_853KB/s_1237ms
 vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527?encryption=none&type=tcp&headerType=http&host=cafebazaar.snapp.ir&path=/&security=none#🇩🇪DE_853KB/s_419ms
+vless://dba2493d-5f5a-466a-bd8f-3b74b7f3d63b@H7.ELDENRINGSHOP.IR:2053?path=love&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=core.mehrsazi.ir#🇩🇪DE_801KB/s_765ms
 vless://0f411d3b-4356-4c4c-bd9f-927cbbbca754@iranpet.dtpetshop.com:40433?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=iranpet.dtpetshop.com#🇺🇸US_775KB/s_1028ms
 vless://32e97345-6a66-4810-9821-82f07a0e2d6c@my.kiomars.shop:6664?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=c3b6ed4da7a983c7&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&encryption=none#🇫🇮FI_731KB/s_570ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_731KB/s_1062ms
