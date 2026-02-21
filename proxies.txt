@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-21 11:00:24
-# Total: 9 working proxies
+# Updated: 2026-02-21 12:00:17
+# Total: 11 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -10,10 +10,12 @@ trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&inse
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇺🇸US_1.2MB/s_1490ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸US_394KB/s_1039ms
 
-# === VLESS (6) ===
+# === VLESS (8) ===
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=1&sni=data-frm2.netsnap.ir#🇫🇷FR_2.3MB/s_1052ms
 vless://a0019576-b214-4a9e-9bee-52adbb5c2af8@tn9.radmardmax.ir:7559?security=none&encryption=none&headerType=http&type=tcp#🇫🇮FI_1.2MB/s_916ms
+vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&type=ws&path=%2F&alpn=h3%2Ch2%2Chttp%2F1.1&sni=proxy.rahmancloud.ir&fp=chrome&encryption=none#🇺🇸US_1.2MB/s_1279ms
 vless://cb637e7c-6339-4d64-9782-148a43c57683@144.31.170.170:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lOSr-9AoQwZVwhuonEZxeHvVxN9kHpdDIePpRoPAzkM&security=reality&sid=84ba23f581ad7a15&sni=www.cloudflare.com&type=tcp#🇪🇪EE_1.0MB/s_846ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇩🇪DE_1.0MB/s_1271ms
-vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_892KB/s_797ms
+vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🌍Unknown_892KB/s_923ms
+vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&type=ws&path=%2F&alpn=h3%2Ch2%2Chttp%2F1.1&sni=proxy.rahmancloud.ir&fp=chrome&encryption=none#🇺🇸US_853KB/s_1278ms
 vless://9b331513-de55-411e-8f45-8fff82539ee9@tn9.radmardmax.ir:7559?security=none&encryption=none&headerType=http&type=tcp#🇫🇮FI_731KB/s_879ms
