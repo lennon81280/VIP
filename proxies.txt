@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-21 22:00:09
+# Updated: 2026-02-21 23:00:47
 # Total: 30 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -37,4 +37,4 @@ vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&securit
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#🇬🇧GB_465KB/s_1488ms
 vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_427KB/s_751ms
 vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_394KB/s_757ms
-vless://71890dce-0a26-4d68-8281-e541a5abd3df@85.133.196.69:36659?encryption=none&type=tcp&headerType=http&host=fast.com&security=none#🇩🇪DE_369KB/s_622ms
+vless://71890dce-0a26-4d68-8281-e541a5abd3df@85.133.196.69:36659?encryption=none&type=tcp&headerType=http&host=fast.com&security=none#🇩🇪DE_369KB/s_373ms
