@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-21 03:00:17
+# Updated: 2026-02-21 04:00:16
 # Total: 26 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -26,7 +26,7 @@ vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I
 vless://8731868b-7714-4282-af80-25c704de24a5@lit.litiran.ir:2083?security=tls&encryption=none&host=videogame-al.kafeistanbul.shop&type=ws&sni=videogame-al.kafeistanbul.shop#🇦🇱AL_1.0MB/s_935ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=/R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2,http/1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir#🇫🇷FR_1.0MB/s_772ms
 vless://cb637e7c-6339-4d64-9782-148a43c57683@144.31.170.170:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lOSr-9AoQwZVwhuonEZxeHvVxN9kHpdDIePpRoPAzkM&security=reality&sid=84ba23f581ad7a15&sni=www.cloudflare.com&type=tcp#🇪🇪EE_1.0MB/s_649ms
-vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_892KB/s_752ms
+vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_892KB/s_712ms
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#🇫🇷FR_853KB/s_733ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_853KB/s_1308ms
 vless://9b331513-de55-411e-8f45-8fff82539ee9@tn9.radmardmax.ir:7559?security=none&encryption=none&headerType=http&type=tcp#🇫🇮FI_731KB/s_879ms
