@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-22 08:00:32
-# Total: 67 working proxies
+# Updated: 2026-02-22 09:00:22
+# Total: 68 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -14,7 +14,7 @@ trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&inse
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?sni=iepl.usq1.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸US_827KB/s_1629ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸US_569KB/s_1039ms
 
-# === VLESS (60) ===
+# === VLESS (61) ===
 vless://32e97345-6a66-4810-9821-82f07a0e2d6c@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#🇫🇮FI_1.7MB/s_562ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_1.7MB/s_616ms
 vless://ee39416c-51ad-4091-abcd-3ffa04ca39ce@185.124.175.217:7730?encryption=none&security=none&type=grpc&authority=&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm&mode=gun#🇩🇪DE_1.7MB/s_1255ms
@@ -53,6 +53,7 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&secur
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_731KB/s_688ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&sni=all-fm2.netsnap.ir.&fp=firefox&type=ws&host=all-fm2.netsnap.ir.&path=%2F#🇫🇷FR_731KB/s_1052ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇫🇷FR_731KB/s_966ms
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cd11.thisiswe.uno&path=%2F#🇩🇪DE_731KB/s_725ms
 vless://71890dce-0a26-4d68-8281-e541a5abd3df@85.133.196.69:36659?encryption=none&type=tcp&headerType=http&host=fast.com&security=none#🇩🇪DE_682KB/s_418ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_640KB/s_1206ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇩🇪DE_640KB/s_667ms
@@ -62,7 +63,7 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&secur
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053/?security=tls&type=ws&path=%2F&host=cd11.thisiswe.uno&sni=cd11.thisiswe.uno&fp=chrome&encryption=none#🇩🇪DE_619KB/s_674ms
 vless://32e97345-6a66-4810-9821-82f07a0e2d6c@91.234.147.68:6665?security=none&encryption=none&headerType=http&type=tcp#🇨🇭CH_569KB/s_457ms
 vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=proxy.rahmancloud.ir#🇺🇸US_569KB/s_1287ms
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws&note=@FreeOnlineVPN#🇫🇮FI_569KB/s_828ms
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=/&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws&note=@FreeOnlineVPN#🇫🇮FI_569KB/s_793ms
 vless://dba2493d-5f5a-466a-bd8f-3b74b7f3d63b@H7.ELDENRINGSHOP.IR:2053?path=love&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=core.mehrsazi.ir#🇩🇪DE_569KB/s_860ms
 vless://68e6545a-0995-481a-bf15-f1daa2e16e75@94.184.10.15:3030?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_512KB/s_1490ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=cd11.thisiswe.uno&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=cd11.thisiswe.uno&path=/#🇩🇪DE_512KB/s_648ms
