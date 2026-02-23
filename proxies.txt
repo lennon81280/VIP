@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-23 16:00:42
+# Updated: 2026-02-23 17:00:36
 # Total: 48 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -36,7 +36,7 @@ vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_853KB/s_904ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_853KB/s_712ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_853KB/s_680ms
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@v1.dabache.top:2087?&security=tls&fp=chrome&sni=all-fm2.netsnap.ir&type=ws&headerType=none&host=all-fm2.netsnap.ir&path=%2F#🇫🇷FR_853KB/s_1654ms
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@v1.dabache.top:2087?&security=tls&fp=chrome&sni=all-fm2.netsnap.ir&type=ws&headerType=none&host=all-fm2.netsnap.ir&path=%2F#🇫🇷FR_853KB/s_1845ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=cd11.thisiswe.uno&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=cd11.thisiswe.uno&path=/#🇩🇪DE_832KB/s_634ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=cd11.thisiswe.uno&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=cd11.thisiswe.uno&path=/#🇩🇪DE_737KB/s_796ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&sni=all-fm2.netsnap.ir.#🇫🇷FR_731KB/s_1332ms
