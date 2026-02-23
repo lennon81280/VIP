@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-23 17:00:36
+# Updated: 2026-02-23 18:00:34
 # Total: 48 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -32,20 +32,20 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&en
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#🇫🇷FR_1.0MB/s_1221ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#🇫🇷FR_1.0MB/s_1528ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#🇫🇷FR_1009KB/s_1250ms
-vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_962KB/s_751ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_853KB/s_904ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_853KB/s_712ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_853KB/s_680ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@v1.dabache.top:2087?&security=tls&fp=chrome&sni=all-fm2.netsnap.ir&type=ws&headerType=none&host=all-fm2.netsnap.ir&path=%2F#🇫🇷FR_853KB/s_1845ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=cd11.thisiswe.uno&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=cd11.thisiswe.uno&path=/#🇩🇪DE_832KB/s_634ms
+vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?encryption=none&security=none&type=tcp&headerType=none#🇩🇪DE_823KB/s_1177ms
+vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_778KB/s_751ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=cd11.thisiswe.uno&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=cd11.thisiswe.uno&path=/#🇩🇪DE_737KB/s_796ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&sni=all-fm2.netsnap.ir.#🇫🇷FR_731KB/s_1332ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&sni=all-fm2.netsnap.ir.&fp=firefox&type=ws&host=all-fm2.netsnap.ir.&path=%2F#🇫🇷FR_731KB/s_1052ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#🇫🇷FR_731KB/s_952ms
 vless://daa76981-27fb-4943-8311-c46391ff0847@81.12.91.190:443?security=reality&encryption=none&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&headerType=none&fp=chrome&spx=/example&type=tcp&sni=git-scm.com&sid=e081d94bd1f9bd56#🇫🇷FR_731KB/s_1396ms
-vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?encryption=none&security=none&type=ws&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&path=/ALMAS4#🇦🇪AE_731KB/s_1137ms
+vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?encryption=none&security=none&type=ws&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&path=/ALMAS4#🇦🇪AE_731KB/s_842ms
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇩🇪DE_684KB/s_1474ms
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&type=ws&path=%2F&host=cd11.thisiswe.uno&sni=cd11.thisiswe.uno&fp=chrome&encryption=none#🇩🇪DE_640KB/s_1003ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security=tls&type=ws&path=/&host=all-fm2.netsnap.ir.&sni=all-fm2.netsnap.ir.&fp=chrome&encryption=none#🇫🇷FR_640KB/s_1031ms
 vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?path=/ALMAS4&security=none&encryption=none&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&type=ws#🇦🇪AE_640KB/s_988ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&sni=all-fm2.netsnap.ir.&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=all-fm2.netsnap.ir.&path=/#🇫🇷FR_640KB/s_1618ms
