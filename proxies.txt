@@ -1,11 +1,12 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-24 12:01:06
-# Total: 102 working proxies
+# Updated: 2026-02-24 13:00:28
+# Total: 103 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === TROJAN (2) ===
+# === TROJAN (3) ===
+trojan://BxceQaOe@43.198.227.190:15363?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_853KB/s_1269ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇺🇸US_850KB/s_1600ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?sni=iepl.usq1.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸US_640KB/s_1629ms
 
@@ -92,8 +93,8 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=n
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws#🇩🇪DE_640KB/s_654ms
 vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb19.ava-shop.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#🇫🇷FR_640KB/s_732ms
 vless://dc01db14-47ea-4354-a7fb-87fd6559ac5e@z1.oneset.ir:1051?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪DE_640KB/s_647ms
+vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527?security=&encryption=none&host=cafebazaar.snapp.ir&headerType=http&type=tcp#🇩🇪DE_635KB/s_867ms
 vless://daa76981-27fb-4943-8311-c46391ff0847@81.12.91.190:443?encryption=none&security=reality&sni=git-scm.com&fp=chrome&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&sid=e081d94bd1f9bd56&spx=/example&type=tcp&headerType=none#🇬🇧GB_623KB/s_913ms
-vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?path=/ALMAS4&security=none&encryption=none&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&type=ws#🇦🇪AE_602KB/s_1035ms
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=none&encryption=none&headerType=http&type=tcp#🇪🇸ES_569KB/s_799ms
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?encryption=none&type=tcp&headerType=http&host=/---&security=none#🇩🇪DE_556KB/s_1319ms
 vless://fe08b778-ed31-4f2a-b7a2-01b128aa0701@45.140.147.32:443?security=reality&encryption=none&pbk=m6hOKasQvjuHzvgWAo51YKOK0u9uZMyRFlwdcrC1i0s&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f615#🇳🇱NL_512KB/s_757ms
