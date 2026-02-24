@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-24 10:00:53
+# Updated: 2026-02-24 11:00:52
 # Total: 100 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -25,10 +25,10 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&secur
 vless://fa44db1f-b453-4eea-8343-0512a780675a@5552.prodatabase.ir:1500?security=&encryption=none&headerType=http&type=tcp#🇩🇪DE_1.2MB/s_813ms
 vless://daa76981-27fb-4943-8311-c46391ff0847@81.12.91.190:443?security=reality&encryption=none&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&headerType=none&fp=chrome&type=tcp&sni=git-scm.com&sid=e081d94bd1f9bd56#🇬🇧GB_1.2MB/s_789ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0#🇩🇪DE_1.2MB/s_743ms
-vless://3238e861-cfd2-4ebf-d325-2bd8100cf63e@glob.thisiswe.uno:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=jamal.thisiswe.uno&fp=chrome&type=ws&sni=jamal.thisiswe.uno#🇩🇪DE_1.2MB/s_708ms
-vless://e68f6ab4-d2d0-4185-aae3-145e77b8bec6@shield.zdshop.ir:2053?path=/&security=tls&encryption=none&host=40e1d3eb7a3b7ce1.kiWiJuiCe.IR.&type=ws&sni=c9c679330643079e.kiWiJuiCe.IR.#🇬🇧GB_1.2MB/s_1029ms
-vless://e68f6ab4-d2d0-4185-aae3-145e77b8bec6@shield.zdshop.ir:2053?path=/&security=tls&encryption=none&host=10e97cbd1d96525c.CeRthOSt.iR.&type=ws&sni=9d0ea04e14fc70b2.CeRthOSt.iR.#🇸🇪SE_1.2MB/s_1174ms
-vless://e68f6ab4-d2d0-4185-aae3-145e77b8bec6@safe.zdshop.ir:2053?path=/&security=tls&encryption=none&host=3d9ddc4fe8b1f463.kiWiJuiCe.IR.&type=ws&sni=0f443bab2f90904e.kiWiJuiCe.IR.#🇬🇧GB_1.2MB/s_1244ms
+vless://3238e861-cfd2-4ebf-d325-2bd8100cf63e@glob.thisiswe.uno:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=jamal.thisiswe.uno&fp=chrome&type=ws&sni=jamal.thisiswe.uno#🇩🇪DE_1.2MB/s_973ms
+vless://e68f6ab4-d2d0-4185-aae3-145e77b8bec6@shield.zdshop.ir:2053?path=/&security=tls&encryption=none&host=40e1d3eb7a3b7ce1.kiWiJuiCe.IR.&type=ws&sni=c9c679330643079e.kiWiJuiCe.IR.#🇬🇧GB_1.2MB/s_953ms
+vless://e68f6ab4-d2d0-4185-aae3-145e77b8bec6@shield.zdshop.ir:2053?path=/&security=tls&encryption=none&host=10e97cbd1d96525c.CeRthOSt.iR.&type=ws&sni=9d0ea04e14fc70b2.CeRthOSt.iR.#🇸🇪SE_1.2MB/s_1090ms
+vless://e68f6ab4-d2d0-4185-aae3-145e77b8bec6@safe.zdshop.ir:2053?path=/&security=tls&encryption=none&host=3d9ddc4fe8b1f463.kiWiJuiCe.IR.&type=ws&sni=0f443bab2f90904e.kiWiJuiCe.IR.#🇬🇧GB_1.2MB/s_911ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws&sni=cd11.thisiswe.uno#🇩🇪DE_1.0MB/s_688ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053/?security=tls&type=ws&path=/&host=cd11.thisiswe.uno&sni=cd11.thisiswe.uno&fp=chrome&encryption=none#🇩🇪DE_1.0MB/s_862ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#🇫🇷FR_1.0MB/s_1020ms
@@ -43,11 +43,11 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=n
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#🇫🇷FR_1.0MB/s_961ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@nekopingbot.thisiswe.uno:2053?security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_1.0MB/s_879ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&sni=all-fm2.netsnap.ir.#🇫🇷FR_1.0MB/s_1420ms
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=/&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#🇩🇪DE_1.0MB/s_699ms
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=/&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#🇩🇪DE_1.0MB/s_972ms
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&encryption=none&headerType=http&type=tcp#🇪🇸ES_1009KB/s_487ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#🇩🇪DE_1004KB/s_642ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_1001KB/s_712ms
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇩🇪DE_946KB/s_559ms
+vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇩🇪DE_946KB/s_1259ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_853KB/s_1666ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&sni=all-fm2.netsnap.ir.&fp=firefox&type=ws&host=all-fm2.netsnap.ir.&path=%2F#🇫🇷FR_853KB/s_1052ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#🇩🇪DE_853KB/s_612ms
@@ -66,7 +66,7 @@ vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&s
 vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?path=/ALMAS4&security=none&encryption=none&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&type=ws#🇦🇪AE_853KB/s_566ms
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&sni=all-fm2.netsnap.ir#🇫🇷FR_853KB/s_1417ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#🇩🇪DE_853KB/s_783ms
-vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb19.ava-shop.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#🇫🇷FR_853KB/s_1351ms
+vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb19.ava-shop.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#🇫🇷FR_853KB/s_970ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=/&security=tls&encryption=none&host=kaja.thisiswe.uno&fp=chrome&type=ws&sni=kaja.thisiswe.uno#🇩🇪DE_835KB/s_990ms
 vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?encryption=none&security=none&type=tcp&headerType=none#🇩🇪DE_823KB/s_1177ms
 vless://0ce7a6a6-605c-45f2-a245-ecb16da20a4c@94.182.107.108:22838?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇩🇪DE_783KB/s_321ms
