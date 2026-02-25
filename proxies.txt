@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-25 22:00:39
-# Total: 55 working proxies
+# Updated: 2026-02-25 23:00:32
+# Total: 54 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -8,14 +8,12 @@
 # === TROJAN (1) ===
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵JP_853KB/s_1118ms
 
-# === VLESS (54) ===
-vless://dbaf7124-d6b2-43b1-8d4f-b53d78006913@194.62.43.32:25417?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇫🇮FI_2.0MB/s_1821ms
+# === VLESS (53) ===
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=%2F&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#🇩🇪DE_1.7MB/s_780ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#🇫🇮FI_1.7MB/s_752ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#🇫🇮FI_1.7MB/s_728ms
 vless://3ec9d3f3-98ae-4ed6-87f0-fda752db13df@94.182.145.83:52862?encryption=none&security=none&type=ws&path=/@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot#🇷🇺RU_1.7MB/s_542ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#🇫🇮FI_1.6MB/s_786ms
-vless://ed59fe55-8ad6-475a-ad7e-9e5350ae4a50@45.159.148.130:2093/?type=ws&encryption=none&path=%2FDownloAdMusic&host=www.speedtest.net&security=none#🇬🇧GB_1.2MB/s_712ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#🇫🇮FI_1.2MB/s_807ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?encryption=none&security=tls&sni=kaja.thisiswe.uno&fp=chrome&allowInsecure=1&type=ws&host=kaja.thisiswe.uno&path=/#🇩🇪DE_1.2MB/s_669ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=1&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=p1.thisiswe.uno#🇫🇮FI_1.2MB/s_668ms
@@ -62,4 +60,5 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security
 vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?type=ws&security=none#🇩🇪DE_569KB/s_786ms
 vless://ed59fe55-8ad6-475a-ad7e-9e5350ae4a50@45.159.148.130:2093/?type=ws&encryption=none&path=%2FDownloAdMusic&host=www.speedtest.net&security=none#🇬🇧GB_512KB/s_593ms
 vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?path=/ALMAS4&security=none&encryption=none&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&type=ws#🇦🇪AE_465KB/s_566ms
-vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?security=none&encryption=none&headerType=none&type=tcp#🇳🇱NL_427KB/s_429ms
+vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?security=none&encryption=none&headerType=none&type=tcp#🇳🇱NL_427KB/s_525ms
+vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?security=none&encryption=none&headerType=none&type=tcp#🇳🇱NL_341KB/s_316ms
