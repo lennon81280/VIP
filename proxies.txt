@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-25 23:00:32
-# Total: 54 working proxies
+# Updated: 2026-02-26 00:00:46
+# Total: 55 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -8,7 +8,7 @@
 # === TROJAN (1) ===
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵JP_853KB/s_1118ms
 
-# === VLESS (53) ===
+# === VLESS (54) ===
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=%2F&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#🇩🇪DE_1.7MB/s_780ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#🇫🇮FI_1.7MB/s_752ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#🇫🇮FI_1.7MB/s_728ms
@@ -30,10 +30,11 @@ vless://ed59fe55-8ad6-475a-ad7e-9e5350ae4a50@45.159.148.130:2093/?type=ws&encryp
 vless://186d23c6-877f-4536-a0ed-e6dd19b11ee2@panelhamkar32.gamegh2.ir:41241?security=none&encryption=none&host=dr-ghavami.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇬🇧GB_984KB/s_520ms
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&encryption=none&host=/---TELEGRAM---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig&headerType=http&type=tcp#🇩🇪DE_853KB/s_481ms
 vless://5b933269-a58c-4f64-aeda-0be5068a9c08@rutoger01.divinevpnconnect.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=WubGChO4rKHf2CKTpCjekPyKjoxvATyrzWHki_X7Eik&sid=6a2f71e3&sni=google.com#🇬🇧GB_853KB/s_1177ms
-vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873/?type=ws&encryption=none&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&path=/ALMAS4#🇦🇪AE_853KB/s_836ms
+vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873/?type=ws&encryption=none&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&path=/ALMAS4#🇦🇪AE_853KB/s_983ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#🇫🇮FI_853KB/s_756ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#🇫🇮FI_853KB/s_759ms
 vless://a4250967-b055-4573-bf10-5a691b0fd771@vip-77.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪DE_853KB/s_337ms
+vless://dfe76531-d087-4129-cf5f-41975a1fa894@glob.thisiswe.uno:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=jamal.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=jamal.thisiswe.uno#🇩🇪DE_853KB/s_710ms
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@7.cdnconn.com:23335?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90&sni=icloud.com#🇺🇸US_812KB/s_1058ms
 vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-84.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪DE_794KB/s_582ms
 vless://ed59fe55-8ad6-475a-ad7e-9e5350ae4a50@45.159.148.130:2093/?type=ws&encryption=none&path=%2FDownloAdMusic&host=www.speedtest.net&security=none#🇫🇮FI_752KB/s_712ms
@@ -60,5 +61,5 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security
 vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?type=ws&security=none#🇩🇪DE_569KB/s_786ms
 vless://ed59fe55-8ad6-475a-ad7e-9e5350ae4a50@45.159.148.130:2093/?type=ws&encryption=none&path=%2FDownloAdMusic&host=www.speedtest.net&security=none#🇬🇧GB_512KB/s_593ms
 vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?path=/ALMAS4&security=none&encryption=none&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&type=ws#🇦🇪AE_465KB/s_566ms
-vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?security=none&encryption=none&headerType=none&type=tcp#🇳🇱NL_427KB/s_525ms
+vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?security=none&encryption=none&headerType=none&type=tcp#🇳🇱NL_427KB/s_498ms
 vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?security=none&encryption=none&headerType=none&type=tcp#🇳🇱NL_341KB/s_316ms
