@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-25 21:00:43
-# Total: 56 working proxies
+# Updated: 2026-02-25 22:00:39
+# Total: 55 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -8,7 +8,7 @@
 # === TROJAN (1) ===
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵JP_853KB/s_1118ms
 
-# === VLESS (55) ===
+# === VLESS (54) ===
 vless://dbaf7124-d6b2-43b1-8d4f-b53d78006913@194.62.43.32:25417?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇫🇮FI_2.0MB/s_1821ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=%2F&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#🇩🇪DE_1.7MB/s_780ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#🇫🇮FI_1.7MB/s_752ms
@@ -25,7 +25,6 @@ vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-83.f-sub.cfd:1517?security=none
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#🇫🇮FI_1.2MB/s_1443ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=/&security=tls&encryption=none&host=kaja.thisiswe.uno&fp=chrome&type=ws&sni=kaja.thisiswe.uno#🇩🇪DE_1.0MB/s_957ms
 vless://2a14c345-950b-416b-a029-3aa4751cb1d5@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#🇩🇪DE_1.0MB/s_341ms
-vless://ed59fe55-8ad6-475a-ad7e-9e5350ae4a50@45.159.148.130:2093/?type=ws&encryption=none&path=%2FDownloAdMusic&host=www.speedtest.net&security=none#🇫🇮FI_1.0MB/s_726ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=%2F&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#🇩🇪DE_1.0MB/s_705ms
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@7.cdnconn.com:23335?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90&sni=icloud.com#🇺🇸US_1.0MB/s_1019ms
 vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-82.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪DE_1.0MB/s_544ms
