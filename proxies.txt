@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-26 19:00:56
-# Total: 41 working proxies
+# Updated: 2026-02-26 20:00:41
+# Total: 42 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -11,7 +11,7 @@ trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇺🇸US_698KB/s_1466ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇺🇸US_394KB/s_1490ms
 
-# === VLESS (37) ===
+# === VLESS (38) ===
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#🇩🇪DE_1.7MB/s_900ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?encryption=none&security=tls&sni=kaja.thisiswe.uno&fp=chrome&type=ws&host=kaja.thisiswe.uno&path=/#🇩🇪DE_1.7MB/s_811ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053/?type=ws&security=tls&sni=kaja.thisiswe.uno&host=kaja.thisiswe.uno&path=/&fp=chrome#🇩🇪DE_1.7MB/s_753ms
@@ -40,6 +40,7 @@ vless://2d2c29fd-ed07-43ee-9514-e62f1645fb6c@du.mobileemdad.top:42542?encryption
 vless://dfe76531-d087-4129-cf5f-41975a1fa894@glob.thisiswe.uno:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=jamal.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=jamal.thisiswe.uno#🇩🇪DE_676KB/s_660ms
 vless://0b4c1728-664b-49ee-bea4-1f66d5cc6a59@85.133.240.71:446?encryption=none&security=none&type=tcp&headerType=none#🇬🇧GB_675KB/s_907ms
 vless://775fdbfa-168b-4bb5-b522-5037cbef2859@178.239.150.85:2010?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_640KB/s_355ms
+vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?path=/ALMAS4&security=&encryption=none&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&type=ws#🇦🇪AE_569KB/s_746ms
 vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?path=/ALMAS4&security=none&encryption=none&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&type=ws#🇦🇪AE_569KB/s_783ms
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&encryption=none&host=/---TELEGRAM---v2ray_configs_pools&headerType=http&type=tcp#🇩🇪DE_569KB/s_646ms
 vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?encryption=none&security=none&type=ws&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&path=/ALMAS4#🇩🇪DE_544KB/s_520ms
