@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-26 07:12:59
+# Updated: 2026-02-26 08:00:33
 # Total: 48 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -43,7 +43,7 @@ vless://3ac22fb7-b1f6-4b15-b2ce-e150e8de2873@A.fastlynew.hosting-ip.com:443?secu
 vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?encryption=none&security=none&type=ws&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&path=/ALMAS4#🇦🇪AE_731KB/s_876ms
 vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_731KB/s_355ms
 vless://dfe76531-d087-4129-cf5f-41975a1fa894@glob.thisiswe.uno:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=jamal.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=jamal.thisiswe.uno#🇩🇪DE_676KB/s_660ms
-vless://0b4c1728-664b-49ee-bea4-1f66d5cc6a59@85.133.240.71:446?encryption=none&security=none&type=tcp&headerType=none#🇬🇧GB_675KB/s_429ms
+vless://0b4c1728-664b-49ee-bea4-1f66d5cc6a59@85.133.240.71:446?encryption=none&security=none&type=tcp&headerType=none#🇳🇱NL_675KB/s_415ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=/&security=tls&encryption=none&host=kaja.thisiswe.uno&fp=chrome&type=ws&sni=kaja.thisiswe.uno#🇩🇪DE_640KB/s_731ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@104.19.57.10:2053?path=%2F&security=tls&encryption=none&host=kaja.thisiswe.uno&fp=chrome&type=ws&sni=kaja.thisiswe.uno#🇩🇪DE_640KB/s_718ms
 vless://3ec9d3f3-98ae-4ed6-87f0-fda752db13df@94.182.145.83:52862?encryption=none&security=none&type=ws&path=/@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot@orangevpns_bot#🇷🇺RU_640KB/s_708ms
