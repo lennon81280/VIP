@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-27 17:00:44
+# Updated: 2026-02-27 18:00:38
 # Total: 32 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -9,7 +9,7 @@
 trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_1.0MB/s_1300ms
 trojan://BxceQaOe@3.112.5.11:2399?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰HK_1.0MB/s_1638ms
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_1.0MB/s_1180ms
-trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_853KB/s_1335ms
+trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_853KB/s_1251ms
 trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_640KB/s_1362ms
 
 # === VLESS (27) ===
