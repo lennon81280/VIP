@@ -1,6 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-27 21:00:55
-# Total: 29 working proxies
+# Updated: 2026-02-27 22:00:53
+# Total: 33 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
@@ -13,14 +13,18 @@ trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1#�
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_853KB/s_1251ms
 trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_640KB/s_1362ms
 
-# === VLESS (23) ===
-vless://17ac0683-7c80-4876-9ad0-532c5d92af2d@2.189.161.205:20200?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇩🇪DE_1.7MB/s_1326ms
+# === VLESS (27) ===
+vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb05.ava-shop.ir:2096?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#🇫🇷FR_1.7MB/s_998ms
+vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?path=@BlueberryNetWork&security=none&encryption=none&type=ws#🇫🇮FI_1.7MB/s_845ms
 vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb08.ava-shop.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#🇫🇷FR_1.6MB/s_655ms
 vless://583bfe89-2492-49dc-91f8-4b45e869a1cd@damp-sound-f99c.golamirreza19954312.workers.dev:2083?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇩🇪DE_1.2MB/s_784ms
+vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?path=@BlueberryNetWork&security=none&encryption=none&type=ws#🇫🇮FI_1.2MB/s_903ms
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪DE_1.0MB/s_690ms
 vless://93efc26b-4f15-4bc6-afba-308c925fefe2@wolfa20.gataserver.ir:2096/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=chrome&security=reality&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#🇩🇪DE_1.0MB/s_673ms
 vless://2ad1f949-c156-42e3-8f57-b07101e7b4fc@strong.zdshop.ir:2053?security=tls&type=ws&headerType=&path=&host=03f57dedd63685ef.kiWiJuiCe.IR.&sni=d4919d443597019e.kiWiJuiCe.IR.&fp=#🇬🇧GB_1.0MB/s_1023ms
+vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb05.ava-shop.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#🇫🇷FR_1.0MB/s_801ms
 vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?path=/ALMAS4&security=none&encryption=none&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&type=ws#🇦🇪AE_971KB/s_783ms
+vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb05.ava-shop.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#🇫🇷FR_959KB/s_720ms
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&encryption=none&headerType=http&type=tcp#🇪🇸ES_958KB/s_1179ms
 vless://93efc26b-4f15-4bc6-afba-308c925fefe2@wolfa20.gataserver.ir:2096/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=chrome&security=reality&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#🇩🇪DE_853KB/s_680ms
 vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?encryption=none&security=none&type=ws&host=D2R57.divarcdn.com,0ziwu.snappfood.ir,BXTLd.yjc.ir,1QjBQ.digikala.com,7fYt7.tic.ir&path=/ALMAS4#🇦🇪AE_847KB/s_758ms
