@@ -1,22 +1,20 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-02-27 14:01:02
-# Total: 34 working proxies
+# Updated: 2026-02-27 15:01:09
+# Total: 32 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === TROJAN (6) ===
+# === TROJAN (5) ===
+trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_1.0MB/s_1300ms
 trojan://BxceQaOe@3.112.5.11:2399?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰HK_1.0MB/s_1590ms
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_1.0MB/s_1180ms
-trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_853KB/s_1300ms
 trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_853KB/s_1362ms
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬SG_853KB/s_1282ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇺🇸US_394KB/s_1490ms
 
-# === VLESS (28) ===
+# === VLESS (27) ===
 vless://17ac0683-7c80-4876-9ad0-532c5d92af2d@2.189.161.205:20200?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇩🇪DE_1.7MB/s_1326ms
 vless://33bb7e7c-ff37-49cd-b199-402d8f8bc1e3@94.184.13.37:8368?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#🇩🇪DE_1.3MB/s_462ms
-vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?security=none&encryption=none&headerType=none&type=tcp#🇦🇪AE_1.2MB/s_1061ms
 vless://583bfe89-2492-49dc-91f8-4b45e869a1cd@damp-sound-f99c.golamirreza19954312.workers.dev:2083?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇩🇪DE_1.2MB/s_784ms
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪DE_1.0MB/s_690ms
 vless://93efc26b-4f15-4bc6-afba-308c925fefe2@wolfa20.gataserver.ir:2096/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=chrome&security=reality&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#🇩🇪DE_1.0MB/s_673ms
