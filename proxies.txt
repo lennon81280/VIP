@@ -1,29 +1,30 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-05-23 21:01:28
-# Total: 22 working proxies
+# Updated: 2026-05-24 02:01:05
+# Total: 23 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (22) ===
+# === VLESS (23) ===
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧GB_5.0MB/s_668ms
-vless://25284107-7424-40a5-8396-cdd0623f4f05@cloudflare-ech.com:443?&security=tls&sni=hscraft.top&type=ws&headerType=none&host=hscraft.top&path=%2F%3Fip%3DProxyIP.CMLiussss.net#🇦🇿AZ_5.0MB/s_1035ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.191.0:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇦🇿AZ_5.0MB/s_1633ms
 vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@144.31.235.62:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=0123456789abcdef&sni=www.deepl.com&type=tcp#🇺🇸US_5.0MB/s_1510ms
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.148.4:443?security=tls&sni=xy430.albertabobbi.ndjp.net&type=ws&host=xy430.albertabobbi.ndjp.net&path=%2F#🇯🇵JP_5.0MB/s_469ms
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.148.6:443?security=tls&sni=xy430.albertabobbi.ndjp.net&type=ws&host=xy430.albertabobbi.ndjp.net&path=%2F#🇩🇪DE_5.0MB/s_487ms
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&type=tcp&host=www.cloudflare.com&path=%2F&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#🇱🇹LT_2.5MB/s_1149ms
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-at-ph.ray-balance.space:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#🇦🇹AT_2.5MB/s_1775ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧GB_2.5MB/s_684ms
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#🇬🇧GB_2.5MB/s_498ms
 vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@144.31.235.62:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=0123456789abcdef&sni=www.deepl.com&type=tcp#🇸🇪SE_2.5MB/s_461ms
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧GB_1.2MB/s_420ms
-vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@132.243.221.49:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&flow=xtls-rprx-vision#🇳🇱NL_1.2MB/s_401ms
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@132.243.221.49:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&flow=xtls-rprx-vision#🇳🇱NL_1.2MB/s_394ms
 vless://1e4cbe3e-f5b2-4629-9f41-d6f82ad2fabd@78.17.216.44:47200/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stats.vk-portal.net&fp=chrome&security=reality&pbk=6HCLOqc49awWHysg7oL7ajqqXyLb2uThpvQzlluHCRM&sid=b5e528f4dda6#🇫🇮FI_1.2MB/s_476ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧GB_1.0MB/s_475ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&encryption=none&insecure=0&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=0&sni=sni.latonyamadeline.ndjp.net#🇩🇪DE_1.0MB/s_431ms
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443/?type=tcp&encryption=none&flow=&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#🇬🇧GB_1.0MB/s_1808ms
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.29:10443?security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&type=tcp&host=www.cloudflare.com&path=%2F&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#🇦🇹AT_987KB/s_575ms
-vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=/vless/&security=none#🇩🇪DE_731KB/s_1599ms
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.29:10443?security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&type=tcp&host=www.cloudflare.com&path=%2F&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#🇦🇹AT_987KB/s_528ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧GB_799KB/s_475ms
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&security=reality&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net&type=tcp#🇨🇭CH_731KB/s_1298ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.154.30.150:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇩🇪DE_640KB/s_779ms
-vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=/vless/&security=none#🇩🇪DE_640KB/s_1736ms
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#🇬🇧GB_618KB/s_566ms
 vless://72c319bb-577f-481c-8fc7-0364d72a395d@5.188.142.107:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=r86ni68GUNiBgVWBcMefmBuPhNYpxgjsZkDFJDJxJUw&sid=c2b9fa3010bd32ae#🇩🇪DE_569KB/s_1102ms
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#🇧🇷BR_569KB/s_454ms
