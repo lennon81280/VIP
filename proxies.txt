@@ -1,11 +1,11 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-05-23 15:01:15
-# Total: 26 working proxies
+# Updated: 2026-05-23 17:05:19
+# Total: 27 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (26) ===
+# === VLESS (27) ===
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.35.169:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇩🇪DE_5.0MB/s_518ms
 vless://25284107-7424-40a5-8396-cdd0623f4f05@cloudflare-ech.com:443?&security=tls&sni=hscraft.top&type=ws&headerType=none&host=hscraft.top&path=%2F%3Fip%3DProxyIP.CMLiussss.net#🇦🇿AZ_5.0MB/s_1035ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.191.0:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇩🇪DE_5.0MB/s_1098ms
@@ -22,6 +22,7 @@ vless://1e4cbe3e-f5b2-4629-9f41-d6f82ad2fabd@78.17.216.44:47200/?type=tcp&encryp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.4.195:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇦🇿AZ_1.1MB/s_493ms
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧GB_1.0MB/s_475ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&encryption=none&insecure=0&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=0&sni=sni.latonyamadeline.ndjp.net#🇩🇪DE_1.0MB/s_431ms
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443/?type=tcp&encryption=none&flow=&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#🇬🇧GB_1.0MB/s_1808ms
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.29:10443?security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&type=tcp&host=www.cloudflare.com&path=%2F&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#🇦🇹AT_987KB/s_575ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.38.35:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇦🇿AZ_803KB/s_864ms
 vless://99e50b7b-e551-46b3-b74f-d39806835b10@212.135.211.105:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6bKr3dHLP8VjrlVFBNTAM3Bj0j0iGubvzTDPTmK08FI&sid=ecf07d87f0521a0e&sni=www.cloudflare.com#🇯🇵JP_731KB/s_1835ms
