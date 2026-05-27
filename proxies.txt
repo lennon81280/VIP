@@ -1,15 +1,14 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-05-27 07:01:11
-# Total: 21 working proxies
+# Updated: 2026-05-27 08:01:11
+# Total: 20 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (21) ===
+# === VLESS (20) ===
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.191.0:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇩🇪DE_5.0MB/s_1056ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#🇦🇿AZ_5.0MB/s_1347ms
 vless://332fe014-f5ae-44c3-a184-c1a6f0a717ad@91.201.113.169:443?type=tcp&security=reality&pbk=zoiagJDF37YVs5uHvZ7Ldm9dFnzxjIKqh5NcX8hTZ0s&fp=chrome&sni=yahoo.com&sid=7f7f&spx=%2F#🇳🇱NL_3.0MB/s_1044ms
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.29:10443?security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&type=tcp&host=www.cloudflare.com&path=%2F&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#🇱🇹LT_2.5MB/s_447ms
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&type=tcp&host=www.cloudflare.com&path=%2F&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#🇦🇹AT_2.5MB/s_947ms
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-at-ph.ray-balance.space:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#🇦🇹AT_2.5MB/s_550ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&encryption=none&insecure=0&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=0&sni=sni.latonyamadeline.ndjp.net#🇩🇪DE_2.5MB/s_1026ms
