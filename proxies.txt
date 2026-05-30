@@ -1,9 +1,9 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-05-30 02:02:36
+# Updated: 2026-05-30 06:01:02
 # Total: 1 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
 # === VLESS (1) ===
-vless://99324a44-8702-4a01-a400-cecddd6e2e0b@37.32.126.248:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=v2raycdn.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=v2raycdn.dpdns.org#🇹🇷TR_1.2MB/s_906ms
+vless://99324a44-8702-4a01-a400-cecddd6e2e0b@37.32.126.248:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=v2raycdn.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=v2raycdn.dpdns.org#🇹🇷TR_1.7MB/s_906ms
