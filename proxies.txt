@@ -1,14 +1,12 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-01 06:01:24
-# Total: 7 working proxies
+# Updated: 2026-06-01 07:01:05
+# Total: 5 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (7) ===
+# === VLESS (5) ===
 vless://ae92c3e3-839c-46c3-bf28-0dcd48bcc1ca@flight.737airborn.ir:80?path=/cdn&security=none&encryption=none&host=flight.737airborn.ir&type=ws#🇩🇪DE_2.8MB/s_532ms
-vless://99324a44-8702-4a01-a400-cecddd6e2e0b@37.32.126.248:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=v2raycdn.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=v2raycdn.dpdns.org#🇹🇷TR_1.2MB/s_906ms
-vless://506e4a91-1d05-5683-b84c-2113f673cb19@104.26.3.138:443?allowInsecure=1&encryption=none&host=vltj.qzz.io&path=%2Fid-pusat&security=tls&sni=vltj.qzz.io&type=ws#🇩🇪DE_1.0MB/s_675ms
 vless://a8c6e908-fa7e-4d53-abdf-162fc47fe456@185.143.233.235:2053?path=%2F&security=tls&encryption=none&insecure=0&host=top.mobixaco.ir&fp=random&type=ws&allowInsecure=0&sni=top.mobixaco.ir#🇹🇷TR_853KB/s_497ms
 vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?encryption=none&security=none&type=tcp&headerType=none#🇹🇷TR_640KB/s_398ms
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪DE_569KB/s_564ms
