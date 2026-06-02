@@ -1,12 +1,9 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-02 04:00:44
-# Total: 4 working proxies
+# Updated: 2026-06-02 05:01:57
+# Total: 1 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (4) ===
-vless://ae92c3e3-839c-46c3-bf28-0dcd48bcc1ca@flight.737airborn.ir:80?path=/cdn&security=none&encryption=none&host=flight.737airborn.ir&type=ws#🇩🇪DE_2.8MB/s_532ms
+# === VLESS (1) ===
 vless://6bbccb5c-97bb-4856-a0a2-032f632bc66e@org17.okala.click:55017?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#🇫🇮FI_731KB/s_907ms
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪DE_569KB/s_564ms
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_569KB/s_936ms
