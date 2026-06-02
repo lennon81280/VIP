@@ -1,10 +1,12 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-02 07:01:23
-# Total: 2 working proxies
+# Updated: 2026-06-02 08:01:07
+# Total: 4 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (2) ===
+# === VLESS (4) ===
+vless://506e4a91-1d05-5683-b84c-2113f673cb19@172.67.69.152:443?allowInsecure=1&encryption=none&host=vltj.qzz.io&path=/id-pusat&security=tls&sni=vltj.qzz.io&type=ws#🇩🇪DE_1.0MB/s_677ms
+vless://99324a44-8702-4a01-a400-cecddd6e2e0b@37.32.126.248:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2048&host=v2raycdn.dpdns.org&sni=v2raycdn.dpdns.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#🇨🇦CA_1.0MB/s_1148ms
 vless://6bbccb5c-97bb-4856-a0a2-032f632bc66e@org17.okala.click:55017?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#🇫🇮FI_731KB/s_907ms
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_626KB/s_936ms
