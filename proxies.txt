@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-02 13:01:01
+# Updated: 2026-06-02 14:00:53
 # Total: 5 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
