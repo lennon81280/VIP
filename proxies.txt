@@ -1,9 +1,6 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-03 08:01:16
-# Total: 1 working proxies
+# Updated: 2026-06-03 09:01:10
+# Total: 0 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
-
-# === VLESS (1) ===
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality&encryption=none&pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=b00e098b#🇫🇷FR_843KB/s_832ms
