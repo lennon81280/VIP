@@ -1,10 +1,11 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-03 22:01:02
-# Total: 2 working proxies
+# Updated: 2026-06-03 23:00:37
+# Total: 3 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (2) ===
+# === VLESS (3) ===
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇩🇪DE_853KB/s_666ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.2:2053?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&type=ws&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&path=%2F%3Fed%3D2048&fp=chrome#🇩🇪DE_853KB/s_664ms
+vless://228ecfd3-9bf0-42fd-a50e-581f84022513@89.125.27.28:443?flow=xtls-rprx-vision&fp=chrome&pbk=JL7GwwoMCMLkR3Dn_wvUzby5Z-RLntkh09BdJ-o16yQ&security=reality&sid=4f&sni=www.nl.ozone.nl&spx=/ihxi8sy93b8mt1I&type=tcp#🇵🇱PL_787KB/s_712ms
