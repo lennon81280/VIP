@@ -1,5 +1,5 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-04 17:00:11
+# Updated: 2026-06-04 18:02:02
 # Total: 18 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
@@ -10,7 +10,7 @@ vless://d35eadff-915a-43a1-9ed3-a99eaaf124b3@legend.zdshop.ir:2053?security=tls&
 vless://d35eadff-915a-43a1-9ed3-a99eaaf124b3@strong.zdshop.ir:2053?security=tls&encryption=none&host=b27cb839644db8f6.blAcKpaPErs.IR.&type=ws&sni=31faea2cfa37bf8c.blAcKpaPErs.IR.#🇬🇧GB_1.0MB/s_676ms
 vless://d35eadff-915a-43a1-9ed3-a99eaaf124b3@strong.zdshop.ir:2053?security=tls&encryption=none&host=8b25ce7045712517.kiWiJuiCe.IR.&type=ws&sni=46b6528fbbe29ea9.kiWiJuiCe.IR.#🇩🇪DE_1020KB/s_771ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇩🇪DE_853KB/s_666ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.2:2053?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&type=ws&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&path=%2F%3Fed%3D2048&fp=chrome#🇩🇪DE_853KB/s_699ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.2:2053?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&type=ws&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&path=%2F%3Fed%3D2048&fp=chrome#🇩🇪DE_853KB/s_688ms
 vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@185.178.46.95:2053?security=tls&type=tcp&sni=de.chocolatemango.live&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪DE_853KB/s_968ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇩🇪DE_853KB/s_677ms
 vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@188.225.57.207:2053?security=tls&type=tcp&sni=de.chocolatemango.live&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪DE_841KB/s_595ms
