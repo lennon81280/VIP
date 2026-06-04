@@ -1,14 +1,15 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-04 06:00:37
-# Total: 6 working proxies
+# Updated: 2026-06-04 07:01:58
+# Total: 7 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (6) ===
+# === VLESS (7) ===
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇩🇪DE_853KB/s_666ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.2:2053?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&type=ws&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&path=%2F%3Fed%3D2048&fp=chrome#🇩🇪DE_853KB/s_673ms
 vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@185.178.46.95:2053?security=tls&type=tcp&sni=de.chocolatemango.live&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪DE_853KB/s_646ms
 vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@188.225.57.207:2053?security=tls&type=tcp&sni=de.chocolatemango.live&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪DE_841KB/s_889ms
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪DE_819KB/s_564ms
 vless://228ecfd3-9bf0-42fd-a50e-581f84022513@89.125.27.28:443?flow=xtls-rprx-vision&fp=chrome&pbk=JL7GwwoMCMLkR3Dn_wvUzby5Z-RLntkh09BdJ-o16yQ&security=reality&sid=4f&sni=www.nl.ozone.nl&spx=/ihxi8sy93b8mt1I&type=tcp#🇵🇱PL_787KB/s_712ms
 vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@185.154.193.61:2053?security=tls&type=tcp&sni=de.chocolatemango.live&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪DE_465KB/s_651ms
