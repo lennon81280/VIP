@@ -1,11 +1,11 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-05 05:04:07
-# Total: 16 working proxies
+# Updated: 2026-06-05 06:12:31
+# Total: 23 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (16) ===
+# === VLESS (23) ===
 vless://d35eadff-915a-43a1-9ed3-a99eaaf124b3@legend.zdshop.ir:2053?security=tls&encryption=none&host=e0aff452e21e9894.kiWiJuiCe.IR.&type=ws&sni=4b596b7ebf00393e.kiWiJuiCe.IR.#🇩🇪DE_1.7MB/s_806ms
 vless://d35eadff-915a-43a1-9ed3-a99eaaf124b3@strong.zdshop.ir:2053?security=tls&encryption=none&host=b27cb839644db8f6.blAcKpaPErs.IR.&type=ws&sni=31faea2cfa37bf8c.blAcKpaPErs.IR.#🇬🇧GB_1.0MB/s_676ms
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.26.14.160:2083?path=%2Fproxyip%3D45.150.108.59%2C80.178.58.56%2C185.162.127.54&security=tls&encryption=none&insecure=0&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&fp=random&type=ws&allowInsecure=0&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev#🇩🇪DE_1.0MB/s_671ms
@@ -13,12 +13,19 @@ vless://8525fe74-67e6-4a55-8a26-95f227bd1384@147.185.161.152:2087?path=%2Fproxyi
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.224.73.107:2053?path=%2Fproxyip%3D162.243.249.250%2C77.110.126.244%2C64.176.219.210%2C91.90.195.68%2C64.176.219.105%2C45.55.251.207&security=tls&encryption=none&insecure=0&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&fp=random&type=ws&allowInsecure=0&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev#🇺🇸US_1.0MB/s_664ms
 vless://d35eadff-915a-43a1-9ed3-a99eaaf124b3@strong.zdshop.ir:2053?security=tls&encryption=none&host=8b25ce7045712517.kiWiJuiCe.IR.&type=ws&sni=46b6528fbbe29ea9.kiWiJuiCe.IR.#🇩🇪DE_1020KB/s_771ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇩🇪DE_853KB/s_677ms
+vless://21e95772-aacd-4934-bc2b-e0517bb572f7@94.101.178.125:80?type=tcp&encryption=none&security=none#🇩🇪DE_853KB/s_552ms
+vless://c9085d5f-1139-4741-ae84-b5a67d2127c9@94.101.178.125:80?type=tcp&encryption=none&security=none#🇩🇪DE_844KB/s_953ms
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪DE_819KB/s_564ms
+vless://906a8afb-0508-0029-8926-7a754dd62db5@se02.goodmaximum.com:443?encryption=none&type=grpc&serviceName=QToNrKDvQT5AfnFM&mode=gun&security=reality&sni=workspace.sablefrost.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🇸🇪SE_731KB/s_795ms
 vless://b82777cd-13e8-456c-8e0e-5dd2bb5d3d5c@138.68.1.18:2053?&security=tls&sni=hzhz85123803.dpdns.org&type=ws&headerType=none&host=hzhz85123803.dpdns.org&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇺🇸US_642KB/s_1421ms
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.114.124:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#🇰🇷KR_640KB/s_1465ms
+vless://5df9efa9-ea6f-4148-9789-5f4bb35a10d9@79.175.167.44:2323?encryption=none&security=none&type=tcp&headerType=none#🇲🇾MY_640KB/s_922ms
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_601KB/s_936ms
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443?path=%2Fproxyip%3D212.193.35.100%2C185.218.0.16%2C83.147.255.88%2C138.124.255.49%2C185.147.26.135%2C79.174.80.62%2C185.72.145.79%2C82.146.38.33&security=tls&encryption=none&insecure=0&host=weathered-brook-18b6.alvlirm741.workers.dev&fp=random&type=ws&allowInsecure=0&sni=weathered-brook-18b6.alvlirm741.workers.dev#🇷🇺RU_599KB/s_628ms
 vless://b82777cd-13e8-456c-8e0e-5dd2bb5d3d5c@134.195.211.13:443?&security=tls&sni=hzhz85123803.dpdns.org&type=ws&headerType=none&host=hzhz85123803.dpdns.org&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇺🇸US_569KB/s_1389ms
 vless://e8b28c67-c240-4d06-b0e4-a692f7514194@95.38.188.68:12335?encryption=none&security=none&type=tcp#🇩🇪DE_569KB/s_397ms
 vless://b82777cd-13e8-456c-8e0e-5dd2bb5d3d5c@138.68.1.18:8443?&security=tls&sni=hzhz85123803.dpdns.org&type=ws&headerType=none&host=hzhz85123803.dpdns.org&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇺🇸US_512KB/s_1441ms
 vless://b82777cd-13e8-456c-8e0e-5dd2bb5d3d5c@209.38.149.234:443?&security=tls&sni=hzhz85123803.dpdns.org&type=ws&headerType=none&host=hzhz85123803.dpdns.org&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇺🇸US_512KB/s_1426ms
+vless://fd32bbb1-3410-45fb-8db6-d606fde34bd6@snapp.ir:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#🇩🇪DE_480KB/s_490ms
+vless://b8c4080d-c2b9-44eb-8540-0e9a8fab61fc@snapp.ir:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#🇩🇪DE_465KB/s_1140ms
+vless://906a8afb-0508-0015-8926-7a754dd62db5@de02.goodmaximum.com:443?encryption=none&type=grpc&serviceName=QToNrKDvQT5AfnFM&mode=gun&security=reality&sni=archive.glimmerhouse.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🇷🇺RU_415KB/s_582ms
