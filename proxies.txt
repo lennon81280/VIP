@@ -1,17 +1,15 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-05 03:01:03
-# Total: 15 working proxies
+# Updated: 2026-06-05 04:02:11
+# Total: 12 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (15) ===
+# === VLESS (12) ===
 vless://d35eadff-915a-43a1-9ed3-a99eaaf124b3@legend.zdshop.ir:2053?security=tls&encryption=none&host=e0aff452e21e9894.kiWiJuiCe.IR.&type=ws&sni=4b596b7ebf00393e.kiWiJuiCe.IR.#🇩🇪DE_1.7MB/s_806ms
 vless://d35eadff-915a-43a1-9ed3-a99eaaf124b3@strong.zdshop.ir:2053?security=tls&encryption=none&host=b27cb839644db8f6.blAcKpaPErs.IR.&type=ws&sni=31faea2cfa37bf8c.blAcKpaPErs.IR.#🇬🇧GB_1.0MB/s_676ms
 vless://d35eadff-915a-43a1-9ed3-a99eaaf124b3@strong.zdshop.ir:2053?security=tls&encryption=none&host=8b25ce7045712517.kiWiJuiCe.IR.&type=ws&sni=46b6528fbbe29ea9.kiWiJuiCe.IR.#🇩🇪DE_1020KB/s_771ms
-vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@185.178.46.95:2053?security=tls&type=tcp&sni=de.chocolatemango.live&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪DE_853KB/s_968ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇩🇪DE_853KB/s_677ms
-vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@188.225.57.207:2053?security=tls&type=tcp&sni=de.chocolatemango.live&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪DE_841KB/s_595ms
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪DE_819KB/s_564ms
 vless://b82777cd-13e8-456c-8e0e-5dd2bb5d3d5c@138.68.1.18:2053?&security=tls&sni=hzhz85123803.dpdns.org&type=ws&headerType=none&host=hzhz85123803.dpdns.org&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇺🇸US_642KB/s_1421ms
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.114.124:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#🇰🇷KR_640KB/s_1465ms
@@ -20,4 +18,3 @@ vless://b82777cd-13e8-456c-8e0e-5dd2bb5d3d5c@134.195.211.13:443?&security=tls&sn
 vless://e8b28c67-c240-4d06-b0e4-a692f7514194@95.38.188.68:12335?encryption=none&security=none&type=tcp#🇩🇪DE_569KB/s_397ms
 vless://b82777cd-13e8-456c-8e0e-5dd2bb5d3d5c@138.68.1.18:8443?&security=tls&sni=hzhz85123803.dpdns.org&type=ws&headerType=none&host=hzhz85123803.dpdns.org&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇺🇸US_512KB/s_1441ms
 vless://b82777cd-13e8-456c-8e0e-5dd2bb5d3d5c@209.38.149.234:443?&security=tls&sni=hzhz85123803.dpdns.org&type=ws&headerType=none&host=hzhz85123803.dpdns.org&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇺🇸US_512KB/s_1426ms
-vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@185.154.193.61:2053?security=tls&type=tcp&sni=de.chocolatemango.live&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇩🇪DE_465KB/s_651ms
