@@ -1,14 +1,16 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-05 15:00:34
-# Total: 13 working proxies
+# Updated: 2026-06-05 17:01:12
+# Total: 15 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (13) ===
+# === VLESS (15) ===
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.26.14.160:2083?path=%2Fproxyip%3D45.150.108.59%2C80.178.58.56%2C185.162.127.54&security=tls&encryption=none&insecure=0&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&fp=random&type=ws&allowInsecure=0&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev#🇩🇪DE_1.0MB/s_671ms
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@147.185.161.152:2087?path=%2Fproxyip%3D212.193.35.100%2C185.218.0.16%2C83.147.255.88%2C138.124.255.49%2C185.147.26.135%2C79.174.80.62%2C185.72.145.79%2C82.146.38.33&security=tls&encryption=none&insecure=0&host=weathered-brook-18b6.alvlirm741.workers.dev&fp=random&type=ws&allowInsecure=0&sni=weathered-brook-18b6.alvlirm741.workers.dev#🇷🇺RU_1.0MB/s_589ms
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.224.73.107:2053?path=%2Fproxyip%3D162.243.249.250%2C77.110.126.244%2C64.176.219.210%2C91.90.195.68%2C64.176.219.105%2C45.55.251.207&security=tls&encryption=none&insecure=0&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&fp=random&type=ws&allowInsecure=0&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev#🇺🇸US_1.0MB/s_664ms
+vless://dfb1ab61-066c-4bce-ba32-d8fe8cc42dd7@185.242.85.9:443?encryption=none&type=tcp&security=reality&sni=wikipedia.org&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#🇰🇿KZ_1.0MB/s_1332ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇦🇿AZ_960KB/s_642ms
 vless://21e95772-aacd-4934-bc2b-e0517bb572f7@94.101.178.125:80?type=tcp&encryption=none&security=none#🇩🇪DE_853KB/s_552ms
 vless://c9085d5f-1139-4741-ae84-b5a67d2127c9@94.101.178.125:80?type=tcp&encryption=none&security=none#🇩🇪DE_844KB/s_953ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇩🇪DE_731KB/s_677ms
