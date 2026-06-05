@@ -1,11 +1,11 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-06 02:00:54
-# Total: 18 working proxies
+# Updated: 2026-06-06 03:01:26
+# Total: 19 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (18) ===
+# === VLESS (19) ===
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.2:2053?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&type=ws&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&path=%2F%3Fed%3D2048&fp=chrome#🇩🇪DE_1.2MB/s_702ms
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.26.14.160:2083?path=%2Fproxyip%3D45.150.108.59%2C80.178.58.56%2C185.162.127.54&security=tls&encryption=none&insecure=0&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&fp=random&type=ws&allowInsecure=0&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev#🇩🇪DE_1.0MB/s_671ms
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@147.185.161.152:2087?path=%2Fproxyip%3D212.193.35.100%2C185.218.0.16%2C83.147.255.88%2C138.124.255.49%2C185.147.26.135%2C79.174.80.62%2C185.72.145.79%2C82.146.38.33&security=tls&encryption=none&insecure=0&host=weathered-brook-18b6.alvlirm741.workers.dev&fp=random&type=ws&allowInsecure=0&sni=weathered-brook-18b6.alvlirm741.workers.dev#🇷🇺RU_1.0MB/s_589ms
@@ -13,6 +13,7 @@ vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.224.73.107:2053?path=%2Fproxyip
 vless://dfb1ab61-066c-4bce-ba32-d8fe8cc42dd7@185.242.85.9:443?encryption=none&type=tcp&security=reality&sni=wikipedia.org&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#🇰🇿KZ_1.0MB/s_1332ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇦🇿AZ_960KB/s_642ms
 vless://21e95772-aacd-4934-bc2b-e0517bb572f7@94.101.178.125:80?type=tcp&encryption=none&security=none#🇩🇪DE_853KB/s_552ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇩🇪DE_853KB/s_645ms
 vless://c9085d5f-1139-4741-ae84-b5a67d2127c9@94.101.178.125:80?type=tcp&encryption=none&security=none#🇩🇪DE_844KB/s_953ms
 vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@94.183.153.85:55013?security=reality&sni=www.digikala.com&type=tcp&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385#🇨🇭CH_810KB/s_1159ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#🇩🇪DE_731KB/s_666ms
