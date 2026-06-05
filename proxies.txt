@@ -1,11 +1,12 @@
 # V2Ray Proxy List - Speed Tested
-# Updated: 2026-06-05 23:00:56
-# Total: 16 working proxies
+# Updated: 2026-06-06 00:01:07
+# Total: 17 working proxies
 # Speed test: http://212.183.159.230/5MB.zip
 #
 # Format: link#country_speed_latency
 
-# === VLESS (16) ===
+# === VLESS (17) ===
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.2:2053?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&type=ws&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&path=%2F%3Fed%3D2048&fp=chrome#🇩🇪DE_1.2MB/s_702ms
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.26.14.160:2083?path=%2Fproxyip%3D45.150.108.59%2C80.178.58.56%2C185.162.127.54&security=tls&encryption=none&insecure=0&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&fp=random&type=ws&allowInsecure=0&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev#🇩🇪DE_1.0MB/s_671ms
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@147.185.161.152:2087?path=%2Fproxyip%3D212.193.35.100%2C185.218.0.16%2C83.147.255.88%2C138.124.255.49%2C185.147.26.135%2C79.174.80.62%2C185.72.145.79%2C82.146.38.33&security=tls&encryption=none&insecure=0&host=weathered-brook-18b6.alvlirm741.workers.dev&fp=random&type=ws&allowInsecure=0&sni=weathered-brook-18b6.alvlirm741.workers.dev#🇷🇺RU_1.0MB/s_589ms
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.224.73.107:2053?path=%2Fproxyip%3D162.243.249.250%2C77.110.126.244%2C64.176.219.210%2C91.90.195.68%2C64.176.219.105%2C45.55.251.207&security=tls&encryption=none&insecure=0&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&fp=random&type=ws&allowInsecure=0&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev#🇺🇸US_1.0MB/s_664ms
